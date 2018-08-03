@@ -1,0 +1,32 @@
+L	W	importedmeat_lamb	 
+Date    	ComCode 	Description                                                      	High 
+ 	18916   	USDA Imported Meat - Lamb - Boneless Trimmings - Australia       	 
+ 	18917   	USDA Imported Meat - Lamb - Carcasses - Australia                	 
+ 	18918   	USDA Imported Meat - Lamb - Cuts - Australia                     	 
+ 	18919   	USDA Imported Meat - Lamb - Edible Offal - Australia             	 
+ 	18920   	USDA Imported Meat - Lamb - Primals & Subprimals - Australia     	 
+ 	18921   	USDA Imported Meat - Lamb - Boneless Trimmings - Canada          	 
+ 	18922   	USDA Imported Meat - Lamb - Carcasses - Canada                   	 
+ 	18923   	USDA Imported Meat - Lamb - Cuts - Canada                        	 
+ 	18924   	USDA Imported Meat - Lamb - Edible Offal - Canada                	 
+ 	18925   	USDA Imported Meat - Lamb - Primals & Subprimals - Canada        	 
+ 	18926   	USDA Imported Meat - Lamb - Boneless Trimmings - Chile           	 
+ 	18927   	USDA Imported Meat - Lamb - Carcasses - Chile                    	 
+ 	18928   	USDA Imported Meat - Lamb - Cuts - Chile                         	 
+ 	18929   	USDA Imported Meat - Lamb - Edible Offal - Chile                 	 
+ 	18930   	USDA Imported Meat - Lamb - Primals & Subprimals - Chile         	 
+ 	18931   	USDA Imported Meat - Lamb - Boneless Trimmings - Iceland         	 
+ 	18932   	USDA Imported Meat - Lamb - Carcasses - Iceland                  	 
+ 	18933   	USDA Imported Meat - Lamb - Cuts - Iceland                       	 
+ 	18934   	USDA Imported Meat - Lamb - Edible Offal - Iceland               	 
+ 	18935   	USDA Imported Meat - Lamb - Primals & Subprimals - Iceland       	 
+ 	18936   	USDA Imported Meat - Lamb - Boneless Trimmings - New Zealand     	 
+ 	18937   	USDA Imported Meat - Lamb - Carcasses - New Zealand              	 
+ 	18938   	USDA Imported Meat - Lamb - Cuts - New Zealand                   	 
+ 	18939   	USDA Imported Meat - Lamb - Edible Offal - New Zealand           	 
+ 	18940   	USDA Imported Meat - Lamb - Primals & Subprimals - New Zealand   	 
+ 	18941   	USDA Imported Meat - Lamb - Boneless Trimmings - Total           	 
+ 	18942   	USDA Imported Meat - Lamb - Carcasses - Total                    	 
+ 	18943   	USDA Imported Meat - Lamb - Cuts - Total                         	 
+ 	18944   	USDA Imported Meat - Lamb - Edible Offal - Total                 	 
+ 	18945   	USDA Imported Meat - Lamb - Primals & Subprimals - Total         	 

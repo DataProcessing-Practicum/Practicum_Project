@@ -1,0 +1,68 @@
+P	W	importedmeat_processedpork	 
+Date    	ComCode 	Description                                                                         	High 
+ 	18850   	USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Canada      	 
+ 	18851   	USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Canada      	 
+ 	18852   	USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Canada          	 
+ 	18853   	USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Canada      	 
+ 	18854   	USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Canada        	 
+ 	18855   	USDA Imported Meat - Processed Pork - Thermally Processed - Canada                  	 
+ 	18856   	USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Croatia     	 
+ 	18857   	USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Croatia     	 
+ 	18858   	USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Croatia         	 
+ 	18859   	USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Croatia     	 
+ 	18860   	USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Croatia       	 
+ 	18861   	USDA Imported Meat - Processed Pork - Thermally Processed - Croatia                 	 
+ 	18862   	USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Denmark     	 
+ 	18863   	USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Denmark     	 
+ 	18864   	USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Denmark         	 
+ 	18865   	USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Denmark     	 
+ 	18866   	USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Denmark       	 
+ 	18867   	USDA Imported Meat - Processed Pork - Thermally Processed - Denmark                 	 
+ 	18868   	USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Germany     	 
+ 	18869   	USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Germany     	 
+ 	18870   	USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Germany         	 
+ 	18871   	USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Germany     	 
+ 	18872   	USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Germany       	 
+ 	18873   	USDA Imported Meat - Processed Pork - Thermally Processed - Germany                 	 
+ 	18874   	USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Hungary     	 
+ 	18875   	USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Hungary     	 
+ 	18876   	USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Hungary         	 
+ 	18877   	USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Hungary     	 
+ 	18878   	USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Hungary       	 
+ 	18879   	USDA Imported Meat - Processed Pork - Thermally Processed - Hungary                 	 
+ 	18880   	USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Italy       	 
+ 	18881   	USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Italy       	 
+ 	18882   	USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Italy           	 
+ 	18883   	USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Italy       	 
+ 	18884   	USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Italy         	 
+ 	18885   	USDA Imported Meat - Processed Pork - Thermally Processed - Italy                   	 
+ 	18886   	USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Mexico      	 
+ 	18887   	USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Mexico      	 
+ 	18888   	USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Mexico          	 
+ 	18889   	USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Mexico      	 
+ 	18890   	USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Mexico        	 
+ 	18891   	USDA Imported Meat - Processed Pork - Thermally Processed - Mexico                  	 
+ 	18892   	USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Netherlands 	 
+ 	18893   	USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Netherlands 	 
+ 	18894   	USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Netherlands     	 
+ 	18895   	USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Netherlands 	 
+ 	18896   	USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Netherlands   	 
+ 	18897   	USDA Imported Meat - Processed Pork - Thermally Processed - Netherlands             	 
+ 	18898   	USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Poland      	 
+ 	18899   	USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Poland      	 
+ 	18900   	USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Poland          	 
+ 	18901   	USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Poland      	 
+ 	18902   	USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Poland        	 
+ 	18903   	USDA Imported Meat - Processed Pork - Thermally Processed - Poland                  	 
+ 	18904   	USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Spain       	 
+ 	18905   	USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Spain       	 
+ 	18906   	USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Spain           	 
+ 	18907   	USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Spain       	 
+ 	18908   	USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Spain         	 
+ 	18909   	USDA Imported Meat - Processed Pork - Thermally Processed - Spain                   	 
+ 	18910   	USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Total       	 
+ 	18911   	USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Total       	 
+ 	18912   	USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Total           	 
+ 	18913   	USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Total       	 
+ 	18914   	USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Total         	 
+ 	18915   	USDA Imported Meat - Processed Pork - Thermally Processed - Total                   	 

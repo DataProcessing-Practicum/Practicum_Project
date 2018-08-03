@@ -1,0 +1,86 @@
+REPORTING OFFICE:  THOMASVILLE   AUG 02 2018                                              
+TRUCK, AIR, BOAT AND IMPORT SHIPMENTS FOR:  WED AUG 01 2018                               
+                                                                                          
+
+*MODE IS TRUCK UNLESS OTHERWISE STATED                                                    
+
+10,000 POUND UNITS (DISTRICT TOTALS FOLLOW ASTERISKS)                                     
+
+Provided by:  Specialty Crops Market News                                                 
+              Federal - State Market News Service, USDA.                                  
+                                                                                          
+                                                                                          
+
+Phone: (404) 361-1376    Fax: (404) 363-2523                                                    
+
+TV_FV170                                                                                        
+                                                                                                
+                                                                                                
+                                                                                                
+                                                                                                
+GEORGIA DISTRICT                                                                                
+                                                            ADD/                      ADD/SUB   
+                                                            SUBTRACT      WEIGHT IN WEIGHT IN   
+                                                            WK ENDING     10,000 LB 10,000 LB   
+ORIG COMMODITY                      MODE*         DAY       DATE              UNITS     UNITS   
+---- ------------------------------ ------------- --------- ------------- --------- ---------   
+GA   PEACHES                                                                                    
+                                                                                  1             
+                                                                                                
+**** ****************************** *************                         ---------             
+                                                                                  1             
+                                                                                                
+                                                                                                
+MISSISSIPPI DISTRICT                                                                            
+                                                            ADD/                      ADD/SUB   
+                                                            SUBTRACT      WEIGHT IN WEIGHT IN   
+                                                            WK ENDING     10,000 LB 10,000 LB   
+ORIG COMMODITY                      MODE*         DAY       DATE              UNITS     UNITS   
+---- ------------------------------ ------------- --------- ------------- --------- ---------   
+MS   SWEET POTATOES                                                                             
+                                                                                106             
+                                                                                                
+**** ****************************** *************                         ---------             
+                                                                                106             
+                                                                                                
+                                                                                                
+SOUTH CAROLINA DISTRICT                                                                         
+                                                            ADD/                      ADD/SUB   
+                                                            SUBTRACT      WEIGHT IN WEIGHT IN   
+                                                            WK ENDING     10,000 LB 10,000 LB   
+ORIG COMMODITY                      MODE*         DAY       DATE              UNITS     UNITS   
+---- ------------------------------ ------------- --------- ------------- --------- ---------   
+SC   PEACHES                                                                                    
+                                                                                 95             
+                                                                                                
+**** ****************************** *************                         ---------             
+                                                                                 95             
+                                                                                                
+                                                                                                
+
+SEASON TO DATE TOTALS                                                                     
+
+                                                                                          
+                                                                                          
+GEORGIA DISTRICT                                                                          
+                                                                                          
+ORIGIN  COMMODITY                 MODE*                  TTD        TTDLS          TLS    
+------- ------------------------- ------------- ------------ ------------ ------------    
+GA      PEACHES                                          312         1107         1151    
+
+                                                                                          
+                                                                                          
+MISSISSIPPI DISTRICT                                                                      
+                                                                                          
+ORIGIN  COMMODITY                 MODE*                  TTD        TTDLS          TLS    
+------- ------------------------- ------------- ------------ ------------ ------------    
+MS      SWEET POTATOES                                  9301        10262        12055    
+
+                                                                                          
+                                                                                          
+SOUTH CAROLINA DISTRICT                                                                   
+                                                                                          
+ORIGIN  COMMODITY                 MODE*                  TTD        TTDLS          TLS    
+------- ------------------------- ------------- ------------ ------------ ------------    
+SC      PEACHES                                         7475         1092         1404    
+

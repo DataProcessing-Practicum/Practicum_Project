@@ -1,0 +1,106 @@
+B	W	importedmeat_freshbeef	 
+Date    	ComCode    	Description                                                         	High 
+ 	18636      	USDA Imported Meat - Fresh Beef - AMR - Australia                   	 
+ 	18637      	USDA Imported Meat - Fresh Beef - Boneless Trimmings - Australia    	 
+ 	18638      	USDA Imported Meat - Fresh Beef - Cheek Meat - Australia            	 
+ 	18639      	USDA Imported Meat - Fresh Beef - Cuts - Australia                  	 
+ 	18640      	USDA Imported Meat - Fresh Beef - Edible Offal - Australia          	 
+ 	18641      	USDA Imported Meat - Fresh Beef - Head Meat - Australia             	 
+ 	18642      	USDA Imported Meat - Fresh Beef - Other Intact - Australia          	 
+ 	18643      	USDA Imported Meat - Fresh Beef - Primals & Subprimals - Australia  	 
+ 	18644      	USDA Imported Meat - Fresh Beef - AMR - Brazil                      	 
+ 	18645      	USDA Imported Meat - Fresh Beef - Boneless Trimmings - Brazil       	 
+ 	18646      	USDA Imported Meat - Fresh Beef - Cheek Meat - Brazil               	 
+ 	18647      	USDA Imported Meat - Fresh Beef - Cuts - Brazil                     	 
+ 	18648      	USDA Imported Meat - Fresh Beef - Edible Offal - Brazil             	 
+ 	18649      	USDA Imported Meat - Fresh Beef - Head Meat - Brazil                	 
+ 	18650      	USDA Imported Meat - Fresh Beef - Other Intact - Brazil             	 
+ 	18651      	USDA Imported Meat - Fresh Beef - Primals & Subprimals - Brazil     	 
+ 	18652      	USDA Imported Meat - Fresh Beef - AMR - Canada                      	 
+ 	18653      	USDA Imported Meat - Fresh Beef - Boneless Trimmings - Canada       	 
+ 	18654      	USDA Imported Meat - Fresh Beef - Cheek Meat - Canada               	 
+ 	18655      	USDA Imported Meat - Fresh Beef - Cuts - Canada                     	 
+ 	18656      	USDA Imported Meat - Fresh Beef - Edible Offal - Canada             	 
+ 	18657      	USDA Imported Meat - Fresh Beef - Head Meat - Canada                	 
+ 	18658      	USDA Imported Meat - Fresh Beef - Other Intact - Canada             	 
+ 	18659      	USDA Imported Meat - Fresh Beef - Primals & Subprimals - Canada     	 
+ 	18660      	USDA Imported Meat - Fresh Beef - AMR - Chile                       	 
+ 	18661      	USDA Imported Meat - Fresh Beef - Boneless Trimmings - Chile        	 
+ 	18662      	USDA Imported Meat - Fresh Beef - Cheek Meat - Chile                	 
+ 	18663      	USDA Imported Meat - Fresh Beef - Cuts - Chile                      	 
+ 	18664      	USDA Imported Meat - Fresh Beef - Edible Offal - Chile              	 
+ 	18665      	USDA Imported Meat - Fresh Beef - Head Meat - Chile                 	 
+ 	18666      	USDA Imported Meat - Fresh Beef - Other Intact - Chile              	 
+ 	18667      	USDA Imported Meat - Fresh Beef - Primals & Subprimals - Chile      	 
+ 	18668      	USDA Imported Meat - Fresh Beef - AMR - Costa Rica                  	 
+ 	18669      	USDA Imported Meat - Fresh Beef - Boneless Trimmings - Costa Rica   	 
+ 	18670      	USDA Imported Meat - Fresh Beef - Cheek Meat - Costa Rica           	 
+ 	18671      	USDA Imported Meat - Fresh Beef - Cuts - Costa Rica                 	 
+ 	18672      	USDA Imported Meat - Fresh Beef - Edible Offal - Costa Rica         	 
+ 	18673      	USDA Imported Meat - Fresh Beef - Head Meat - Costa Rica            	 
+ 	18674      	USDA Imported Meat - Fresh Beef - Other Intact - Costa Rica         	 
+ 	18675      	USDA Imported Meat - Fresh Beef - Primals & Subprimals - Costa Rica 	 
+ 	18676      	USDA Imported Meat - Fresh Beef - AMR - Honduras                    	 
+ 	18677      	USDA Imported Meat - Fresh Beef - Boneless Trimmings - Honduras     	 
+ 	18678      	USDA Imported Meat - Fresh Beef - Cheek Meat - Honduras             	 
+ 	18679      	USDA Imported Meat - Fresh Beef - Cuts - Honduras                   	 
+ 	18680      	USDA Imported Meat - Fresh Beef - Edible Offal - Honduras           	 
+ 	18681      	USDA Imported Meat - Fresh Beef - Head Meat - Honduras              	 
+ 	18682      	USDA Imported Meat - Fresh Beef - Other Intact - Honduras           	 
+ 	18683      	USDA Imported Meat - Fresh Beef - Primals & Subprimals - Honduras   	 
+ 	18684      	USDA Imported Meat - Fresh Beef - AMR - Ireland                     	 
+ 	18685      	USDA Imported Meat - Fresh Beef - Boneless Trimmings - Ireland      	 
+ 	18686      	USDA Imported Meat - Fresh Beef - Cheek Meat - Ireland              	 
+ 	18687      	USDA Imported Meat - Fresh Beef - Cuts - Ireland                    	 
+ 	18688      	USDA Imported Meat - Fresh Beef - Edible Offal - Ireland            	 
+ 	18689      	USDA Imported Meat - Fresh Beef - Head Meat - Ireland               	 
+ 	18690      	USDA Imported Meat - Fresh Beef - Other Intact - Ireland            	 
+ 	18691      	USDA Imported Meat - Fresh Beef - Primals & Subprimals - Ireland    	 
+ 	18692      	USDA Imported Meat - Fresh Beef - AMR - Japan                       	 
+ 	18693      	USDA Imported Meat - Fresh Beef - Boneless Trimmings - Japan        	 
+ 	18694      	USDA Imported Meat - Fresh Beef - Cheek Meat - Japan                	 
+ 	18695      	USDA Imported Meat - Fresh Beef - Cuts - Japan                      	 
+ 	18696      	USDA Imported Meat - Fresh Beef - Edible Offal - Japan              	 
+ 	18697      	USDA Imported Meat - Fresh Beef - Head Meat - Japan                 	 
+ 	18698      	USDA Imported Meat - Fresh Beef - Other Intact - Japan              	 
+ 	18699      	USDA Imported Meat - Fresh Beef - Primals & Subprimals - Japan      	 
+ 	18700      	USDA Imported Meat - Fresh Beef - AMR - Mexico                      	 
+ 	18701      	USDA Imported Meat - Fresh Beef - Boneless Trimmings - Mexico       	 
+ 	18702      	USDA Imported Meat - Fresh Beef - Cheek Meat - Mexico               	 
+ 	18703      	USDA Imported Meat - Fresh Beef - Cuts - Mexico                     	 
+ 	18704      	USDA Imported Meat - Fresh Beef - Edible Offal - Mexico             	 
+ 	18705      	USDA Imported Meat - Fresh Beef - Head Meat - Mexico                	 
+ 	18706      	USDA Imported Meat - Fresh Beef - Other Intact - Mexico             	 
+ 	18707      	USDA Imported Meat - Fresh Beef - Primals & Subprimals - Mexico     	 
+ 	18708      	USDA Imported Meat - Fresh Beef - AMR - New Zealand                 	 
+ 	18709      	USDA Imported Meat - Fresh Beef - Boneless Trimmings - New Zealand  	 
+ 	18710      	USDA Imported Meat - Fresh Beef - Cheek Meat - New Zealand          	 
+ 	18711      	USDA Imported Meat - Fresh Beef - Cuts - New Zealand                	 
+ 	18712      	USDA Imported Meat - Fresh Beef - Edible Offal - New Zealand        	 
+ 	18713      	USDA Imported Meat - Fresh Beef - Head Meat - New Zealand           	 
+ 	18714      	USDA Imported Meat - Fresh Beef - Other Intact - New Zealand        	 
+ 	18715      	USDA Imported Meat - Fresh Beef - Primals & Subprimals - New Zealand	 
+ 	18716      	USDA Imported Meat - Fresh Beef - AMR - Nicaragua                   	 
+ 	18717      	USDA Imported Meat - Fresh Beef - Boneless Trimmings - Nicaragua    	 
+ 	18718      	USDA Imported Meat - Fresh Beef - Cheek Meat - Nicaragua            	 
+ 	18719      	USDA Imported Meat - Fresh Beef - Cuts - Nicaragua                  	 
+ 	18720      	USDA Imported Meat - Fresh Beef - Edible Offal - Nicaragua          	 
+ 	18721      	USDA Imported Meat - Fresh Beef - Head Meat - Nicaragua             	 
+ 	18722      	USDA Imported Meat - Fresh Beef - Other Intact - Nicaragua          	 
+ 	18723      	USDA Imported Meat - Fresh Beef - Primals & Subprimals - Nicaragua  	 
+ 	18724      	USDA Imported Meat - Fresh Beef - AMR - Uruguay                     	 
+ 	18725      	USDA Imported Meat - Fresh Beef - Boneless Trimmings - Uruguay      	 
+ 	18726      	USDA Imported Meat - Fresh Beef - Cheek Meat - Uruguay              	 
+ 	18727      	USDA Imported Meat - Fresh Beef - Cuts - Uruguay                    	 
+ 	18728      	USDA Imported Meat - Fresh Beef - Edible Offal - Uruguay            	 
+ 	18729      	USDA Imported Meat - Fresh Beef - Head Meat - Uruguay               	 
+ 	18730      	USDA Imported Meat - Fresh Beef - Other Intact - Uruguay            	 
+ 	18731      	USDA Imported Meat - Fresh Beef - Primals & Subprimals - Uruguay    	 
+ 	18732      	USDA Imported Meat - Fresh Beef - AMR - Total                       	 
+ 	18733      	USDA Imported Meat - Fresh Beef - Boneless Trimmings - Total        	 
+ 	18734      	USDA Imported Meat - Fresh Beef - Cheek Meat - Total                	 
+ 	18735      	USDA Imported Meat - Fresh Beef - Cuts - Total                      	 
+ 	18736      	USDA Imported Meat - Fresh Beef - Edible Offal - Total              	 
+ 	18737      	USDA Imported Meat - Fresh Beef - Head Meat - Total                 	 
+ 	18738      	USDA Imported Meat - Fresh Beef - Other Intact - Total              	 
+ 	18739      	USDA Imported Meat - Fresh Beef - Primals & Subprimals - Total      	 

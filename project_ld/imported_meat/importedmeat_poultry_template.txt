@@ -1,0 +1,50 @@
+C	W	importedmeat_poultry	 
+Date    	ComCode 	Description                                                                                	High 
+ 	18990   	USDA Imported Meat - Poultry - NRTE Processed Poultry - Canada                             	 
+ 	18991   	USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Chicken - Canada      	 
+ 	18992   	USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Turkey - Canada       	 
+ 	18993   	USDA Imported Meat - Poultry - Raw Intact Chicken - Canada                                 	 
+ 	18994   	USDA Imported Meat - Poultry - Raw Intact Poultry - (Ducks, Geeze, Squab) - Canada         	 
+ 	18995   	USDA Imported Meat - Poultry - Raw Intact Turkey - Canada                                  	 
+ 	18996   	USDA Imported Meat - Poultry - RTE Fully Cooked Poultry - Canada                           	 
+ 	18997   	USDA Imported Meat - Poultry - Thermally Processed - Canada                                	 
+ 	18998   	USDA Imported Meat - Poultry - NRTE Processed Poultry - Chile                              	 
+ 	18999   	USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Chicken - Chile       	 
+ 	19000   	USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Turkey - Chile        	 
+ 	19001   	USDA Imported Meat - Poultry - Raw Intact Chicken - Chile                                  	 
+ 	19002   	USDA Imported Meat - Poultry - Raw Intact Poultry - (Ducks, Geeze, Squab) - Chile          	 
+ 	19003   	USDA Imported Meat - Poultry - Raw Intact Turkey - Chile                                   	 
+ 	19004   	USDA Imported Meat - Poultry - RTE Fully Cooked Poultry - Chile                            	 
+ 	19005   	USDA Imported Meat - Poultry - Thermally Processed - Chile                                 	 
+ 	19006   	USDA Imported Meat - Poultry - NRTE Processed Poultry - Israel                             	 
+ 	19007   	USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Chicken - Israel      	 
+ 	19008   	USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Turkey - Israel       	 
+ 	19009   	USDA Imported Meat - Poultry - Raw Intact Chicken - Israel                                 	 
+ 	19010   	USDA Imported Meat - Poultry - Raw Intact Poultry - (Ducks, Geeze, Squab) - Israel         	 
+ 	19011   	USDA Imported Meat - Poultry - Raw Intact Turkey - Israel                                  	 
+ 	19012   	USDA Imported Meat - Poultry - RTE Fully Cooked Poultry - Israel                           	 
+ 	19013   	USDA Imported Meat - Poultry - Thermally Processed - Israel                                	 
+ 	19014   	USDA Imported Meat - Poultry - NRTE Processed Poultry - Mexico                             	 
+ 	19015   	USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Chicken - Mexico      	 
+ 	19016   	USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Turkey - Mexico       	 
+ 	19017   	USDA Imported Meat - Poultry - Raw Intact Chicken - Mexico                                 	 
+ 	19018   	USDA Imported Meat - Poultry - Raw Intact Poultry - (Ducks, Geeze, Squab) - Mexico         	 
+ 	19019   	USDA Imported Meat - Poultry - Raw Intact Turkey - Mexico                                  	 
+ 	19020   	USDA Imported Meat - Poultry - RTE Fully Cooked Poultry - Mexico                           	 
+ 	19021   	USDA Imported Meat - Poultry - Thermally Processed - Mexico                                	 
+ 	19022   	USDA Imported Meat - Poultry - NRTE Processed Poultry - South Korea                        	 
+ 	19023   	USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Chicken - South Korea 	 
+ 	19024   	USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Turkey - South Korea  	 
+ 	19025   	USDA Imported Meat - Poultry - Raw Intact Chicken - South Korea                            	 
+ 	19026   	USDA Imported Meat - Poultry - Raw Intact Poultry - (Ducks, Geeze, Squab) - South Korea    	 
+ 	19027   	USDA Imported Meat - Poultry - Raw Intact Turkey - South Korea                             	 
+ 	19028   	USDA Imported Meat - Poultry - RTE Fully Cooked Poultry - South Korea                      	 
+ 	19029   	USDA Imported Meat - Poultry - Thermally Processed - South Korea                           	 
+ 	19030   	USDA Imported Meat - Poultry - NRTE Processed Poultry - Total                              	 
+ 	19031   	USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Chicken - Total       	 
+ 	19032   	USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Turkey - Total        	 
+ 	19033   	USDA Imported Meat - Poultry - Raw Intact Chicken - Total                                  	 
+ 	19034   	USDA Imported Meat - Poultry - Raw Intact Poultry - (Ducks, Geeze, Squab) - Total          	 
+ 	19035   	USDA Imported Meat - Poultry - Raw Intact Turkey - Total                                   	 
+ 	19036   	USDA Imported Meat - Poultry - RTE Fully Cooked Poultry - Total                            	 
+ 	19037   	USDA Imported Meat - Poultry - Thermally Processed - Total                                 	 

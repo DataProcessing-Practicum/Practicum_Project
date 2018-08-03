@@ -1,0 +1,403 @@
+ComCode,Description,ShortDesc,CatGroupID,CatGroup,CatGroupOrder
+18636,USDA Imported Meat - Fresh Beef - AMR - Australia,USDA Imported Meat - Fresh Beef - AMR - AUS,640,USDA Imported Meat - Fresh Beef,5
+18637,USDA Imported Meat - Fresh Beef - Boneless Trimmings - Australia,USDA Imported Meat - Fresh Beef - Boneless Trimmings - AUS,640,USDA Imported Meat - Fresh Beef,10
+18638,USDA Imported Meat - Fresh Beef - Cheek Meat - Australia,USDA Imported Meat - Fresh Beef - Cheek Meat - AUS,640,USDA Imported Meat - Fresh Beef,15
+18639,USDA Imported Meat - Fresh Beef - Cuts - Australia,USDA Imported Meat - Fresh Beef - Cuts - AUS,640,USDA Imported Meat - Fresh Beef,20
+18640,USDA Imported Meat - Fresh Beef - Edible Offal - Australia,USDA Imported Meat - Fresh Beef - Edible Offal - AUS,640,USDA Imported Meat - Fresh Beef,25
+18641,USDA Imported Meat - Fresh Beef - Head Meat - Australia,USDA Imported Meat - Fresh Beef - Head Meat - AUS,640,USDA Imported Meat - Fresh Beef,30
+18642,USDA Imported Meat - Fresh Beef - Other Intact - Australia,USDA Imported Meat - Fresh Beef - Other Intact - AUS,640,USDA Imported Meat - Fresh Beef,35
+18643,USDA Imported Meat - Fresh Beef - Primals & Subprimals - Australia,USDA Imported Meat - Fresh Beef - Primals & Subprimals - AUS,640,USDA Imported Meat - Fresh Beef,40
+18644,USDA Imported Meat - Fresh Beef - AMR - Brazil,USDA Imported Meat - Fresh Beef - AMR - BRZ,640,USDA Imported Meat - Fresh Beef,45
+18645,USDA Imported Meat - Fresh Beef - Boneless Trimmings - Brazil,USDA Imported Meat - Fresh Beef - Boneless Trimmings - BRZ,640,USDA Imported Meat - Fresh Beef,50
+18646,USDA Imported Meat - Fresh Beef - Cheek Meat - Brazil,USDA Imported Meat - Fresh Beef - Cheek Meat - BRZ,640,USDA Imported Meat - Fresh Beef,55
+18647,USDA Imported Meat - Fresh Beef - Cuts - Brazil,USDA Imported Meat - Fresh Beef - Cuts - BRZ,640,USDA Imported Meat - Fresh Beef,60
+18648,USDA Imported Meat - Fresh Beef - Edible Offal - Brazil,USDA Imported Meat - Fresh Beef - Edible Offal - BRZ,640,USDA Imported Meat - Fresh Beef,65
+18649,USDA Imported Meat - Fresh Beef - Head Meat - Brazil,USDA Imported Meat - Fresh Beef - Head Meat - BRZ,640,USDA Imported Meat - Fresh Beef,70
+18650,USDA Imported Meat - Fresh Beef - Other Intact - Brazil,USDA Imported Meat - Fresh Beef - Other Intact - BRZ,640,USDA Imported Meat - Fresh Beef,75
+18651,USDA Imported Meat - Fresh Beef - Primals & Subprimals - Brazil,USDA Imported Meat - Fresh Beef - Primals & Subprimals - BRZ,640,USDA Imported Meat - Fresh Beef,80
+18652,USDA Imported Meat - Fresh Beef - AMR - Canada,USDA Imported Meat - Fresh Beef - AMR - CAN,640,USDA Imported Meat - Fresh Beef,85
+18653,USDA Imported Meat - Fresh Beef - Boneless Trimmings - Canada,USDA Imported Meat - Fresh Beef - Boneless Trimmings - CAN,640,USDA Imported Meat - Fresh Beef,90
+18654,USDA Imported Meat - Fresh Beef - Cheek Meat - Canada,USDA Imported Meat - Fresh Beef - Cheek Meat - CAN,640,USDA Imported Meat - Fresh Beef,95
+18655,USDA Imported Meat - Fresh Beef - Cuts - Canada,USDA Imported Meat - Fresh Beef - Cuts - CAN,640,USDA Imported Meat - Fresh Beef,100
+18656,USDA Imported Meat - Fresh Beef - Edible Offal - Canada,USDA Imported Meat - Fresh Beef - Edible Offal - CAN,640,USDA Imported Meat - Fresh Beef,105
+18657,USDA Imported Meat - Fresh Beef - Head Meat - Canada,USDA Imported Meat - Fresh Beef - Head Meat - CAN,640,USDA Imported Meat - Fresh Beef,110
+18658,USDA Imported Meat - Fresh Beef - Other Intact - Canada,USDA Imported Meat - Fresh Beef - Other Intact - CAN,640,USDA Imported Meat - Fresh Beef,115
+18659,USDA Imported Meat - Fresh Beef - Primals & Subprimals - Canada,USDA Imported Meat - Fresh Beef - Primals & Subprimals - CAN,640,USDA Imported Meat - Fresh Beef,120
+18660,USDA Imported Meat - Fresh Beef - AMR - Chile,USDA Imported Meat - Fresh Beef - AMR - CHL,640,USDA Imported Meat - Fresh Beef,125
+18661,USDA Imported Meat - Fresh Beef - Boneless Trimmings - Chile,USDA Imported Meat - Fresh Beef - Boneless Trimmings - CHL,640,USDA Imported Meat - Fresh Beef,130
+18662,USDA Imported Meat - Fresh Beef - Cheek Meat - Chile,USDA Imported Meat - Fresh Beef - Cheek Meat - CHL,640,USDA Imported Meat - Fresh Beef,135
+18663,USDA Imported Meat - Fresh Beef - Cuts - Chile,USDA Imported Meat - Fresh Beef - Cuts - CHL,640,USDA Imported Meat - Fresh Beef,140
+18664,USDA Imported Meat - Fresh Beef - Edible Offal - Chile,USDA Imported Meat - Fresh Beef - Edible Offal - CHL,640,USDA Imported Meat - Fresh Beef,145
+18665,USDA Imported Meat - Fresh Beef - Head Meat - Chile,USDA Imported Meat - Fresh Beef - Head Meat - CHL,640,USDA Imported Meat - Fresh Beef,150
+18666,USDA Imported Meat - Fresh Beef - Other Intact - Chile,USDA Imported Meat - Fresh Beef - Other Intact - CHL,640,USDA Imported Meat - Fresh Beef,155
+18667,USDA Imported Meat - Fresh Beef - Primals & Subprimals - Chile,USDA Imported Meat - Fresh Beef - Primals & Subprimals - CHL,640,USDA Imported Meat - Fresh Beef,160
+18668,USDA Imported Meat - Fresh Beef - AMR - Costa Rica,USDA Imported Meat - Fresh Beef - AMR - CR,640,USDA Imported Meat - Fresh Beef,165
+18669,USDA Imported Meat - Fresh Beef - Boneless Trimmings - Costa Rica,USDA Imported Meat - Fresh Beef - Boneless Trimmings - CR,640,USDA Imported Meat - Fresh Beef,170
+18670,USDA Imported Meat - Fresh Beef - Cheek Meat - Costa Rica,USDA Imported Meat - Fresh Beef - Cheek Meat - CR,640,USDA Imported Meat - Fresh Beef,175
+18671,USDA Imported Meat - Fresh Beef - Cuts - Costa Rica,USDA Imported Meat - Fresh Beef - Cuts - CR,640,USDA Imported Meat - Fresh Beef,180
+18672,USDA Imported Meat - Fresh Beef - Edible Offal - Costa Rica,USDA Imported Meat - Fresh Beef - Edible Offal - CR,640,USDA Imported Meat - Fresh Beef,185
+18673,USDA Imported Meat - Fresh Beef - Head Meat - Costa Rica,USDA Imported Meat - Fresh Beef - Head Meat - CR,640,USDA Imported Meat - Fresh Beef,190
+18674,USDA Imported Meat - Fresh Beef - Other Intact - Costa Rica,USDA Imported Meat - Fresh Beef - Other Intact - CR,640,USDA Imported Meat - Fresh Beef,195
+18675,USDA Imported Meat - Fresh Beef - Primals & Subprimals - Costa Rica,USDA Imported Meat - Fresh Beef - Primals & Subprimals - CR,640,USDA Imported Meat - Fresh Beef,200
+18676,USDA Imported Meat - Fresh Beef - AMR - Honduras,USDA Imported Meat - Fresh Beef - AMR - HON,640,USDA Imported Meat - Fresh Beef,205
+18677,USDA Imported Meat - Fresh Beef - Boneless Trimmings - Honduras,USDA Imported Meat - Fresh Beef - Boneless Trimmings - HON,640,USDA Imported Meat - Fresh Beef,210
+18678,USDA Imported Meat - Fresh Beef - Cheek Meat - Honduras,USDA Imported Meat - Fresh Beef - Cheek Meat - HON,640,USDA Imported Meat - Fresh Beef,215
+18679,USDA Imported Meat - Fresh Beef - Cuts - Honduras,USDA Imported Meat - Fresh Beef - Cuts - HON,640,USDA Imported Meat - Fresh Beef,220
+18680,USDA Imported Meat - Fresh Beef - Edible Offal - Honduras,USDA Imported Meat - Fresh Beef - Edible Offal - HON,640,USDA Imported Meat - Fresh Beef,225
+18681,USDA Imported Meat - Fresh Beef - Head Meat - Honduras,USDA Imported Meat - Fresh Beef - Head Meat - HON,640,USDA Imported Meat - Fresh Beef,230
+18682,USDA Imported Meat - Fresh Beef - Other Intact - Honduras,USDA Imported Meat - Fresh Beef - Other Intact - HON,640,USDA Imported Meat - Fresh Beef,235
+18683,USDA Imported Meat - Fresh Beef - Primals & Subprimals - Honduras,USDA Imported Meat - Fresh Beef - Primals & Subprimals - HON,640,USDA Imported Meat - Fresh Beef,240
+18684,USDA Imported Meat - Fresh Beef - AMR - Ireland,USDA Imported Meat - Fresh Beef - AMR - IRL,640,USDA Imported Meat - Fresh Beef,245
+18685,USDA Imported Meat - Fresh Beef - Boneless Trimmings - Ireland,USDA Imported Meat - Fresh Beef - Boneless Trimmings - IRL,640,USDA Imported Meat - Fresh Beef,250
+18686,USDA Imported Meat - Fresh Beef - Cheek Meat - Ireland,USDA Imported Meat - Fresh Beef - Cheek Meat - IRL,640,USDA Imported Meat - Fresh Beef,255
+18687,USDA Imported Meat - Fresh Beef - Cuts - Ireland,USDA Imported Meat - Fresh Beef - Cuts - IRL,640,USDA Imported Meat - Fresh Beef,260
+18688,USDA Imported Meat - Fresh Beef - Edible Offal - Ireland,USDA Imported Meat - Fresh Beef - Edible Offal - IRL,640,USDA Imported Meat - Fresh Beef,265
+18689,USDA Imported Meat - Fresh Beef - Head Meat - Ireland,USDA Imported Meat - Fresh Beef - Head Meat - IRL,640,USDA Imported Meat - Fresh Beef,270
+18690,USDA Imported Meat - Fresh Beef - Other Intact - Ireland,USDA Imported Meat - Fresh Beef - Other Intact - IRL,640,USDA Imported Meat - Fresh Beef,275
+18691,USDA Imported Meat - Fresh Beef - Primals & Subprimals - Ireland,USDA Imported Meat - Fresh Beef - Primals & Subprimals - IRL,640,USDA Imported Meat - Fresh Beef,280
+18692,USDA Imported Meat - Fresh Beef - AMR - Japan,USDA Imported Meat - Fresh Beef - AMR - JAP,640,USDA Imported Meat - Fresh Beef,285
+18693,USDA Imported Meat - Fresh Beef - Boneless Trimmings - Japan,USDA Imported Meat - Fresh Beef - Boneless Trimmings - JAP,640,USDA Imported Meat - Fresh Beef,290
+18694,USDA Imported Meat - Fresh Beef - Cheek Meat - Japan,USDA Imported Meat - Fresh Beef - Cheek Meat - JAP,640,USDA Imported Meat - Fresh Beef,295
+18695,USDA Imported Meat - Fresh Beef - Cuts - Japan,USDA Imported Meat - Fresh Beef - Cuts - JAP,640,USDA Imported Meat - Fresh Beef,300
+18696,USDA Imported Meat - Fresh Beef - Edible Offal - Japan,USDA Imported Meat - Fresh Beef - Edible Offal - JAP,640,USDA Imported Meat - Fresh Beef,305
+18697,USDA Imported Meat - Fresh Beef - Head Meat - Japan,USDA Imported Meat - Fresh Beef - Head Meat - JAP,640,USDA Imported Meat - Fresh Beef,310
+18698,USDA Imported Meat - Fresh Beef - Other Intact - Japan,USDA Imported Meat - Fresh Beef - Other Intact - JAP,640,USDA Imported Meat - Fresh Beef,315
+18699,USDA Imported Meat - Fresh Beef - Primals & Subprimals - Japan,USDA Imported Meat - Fresh Beef - Primals & Subprimals - JAP,640,USDA Imported Meat - Fresh Beef,320
+18700,USDA Imported Meat - Fresh Beef - AMR - Mexico,USDA Imported Meat - Fresh Beef - AMR - MEX,640,USDA Imported Meat - Fresh Beef,325
+18701,USDA Imported Meat - Fresh Beef - Boneless Trimmings - Mexico,USDA Imported Meat - Fresh Beef - Boneless Trimmings - MEX,640,USDA Imported Meat - Fresh Beef,330
+18702,USDA Imported Meat - Fresh Beef - Cheek Meat - Mexico,USDA Imported Meat - Fresh Beef - Cheek Meat - MEX,640,USDA Imported Meat - Fresh Beef,335
+18703,USDA Imported Meat - Fresh Beef - Cuts - Mexico,USDA Imported Meat - Fresh Beef - Cuts - MEX,640,USDA Imported Meat - Fresh Beef,340
+18704,USDA Imported Meat - Fresh Beef - Edible Offal - Mexico,USDA Imported Meat - Fresh Beef - Edible Offal - MEX,640,USDA Imported Meat - Fresh Beef,345
+18705,USDA Imported Meat - Fresh Beef - Head Meat - Mexico,USDA Imported Meat - Fresh Beef - Head Meat - MEX,640,USDA Imported Meat - Fresh Beef,350
+18706,USDA Imported Meat - Fresh Beef - Other Intact - Mexico,USDA Imported Meat - Fresh Beef - Other Intact - MEX,640,USDA Imported Meat - Fresh Beef,355
+18707,USDA Imported Meat - Fresh Beef - Primals & Subprimals - Mexico,USDA Imported Meat - Fresh Beef - Primals & Subprimals - MEX,640,USDA Imported Meat - Fresh Beef,360
+18708,USDA Imported Meat - Fresh Beef - AMR - New Zealand,USDA Imported Meat - Fresh Beef - AMR - NZ,640,USDA Imported Meat - Fresh Beef,365
+18709,USDA Imported Meat - Fresh Beef - Boneless Trimmings - New Zealand,USDA Imported Meat - Fresh Beef - Boneless Trimmings - NZ,640,USDA Imported Meat - Fresh Beef,370
+18710,USDA Imported Meat - Fresh Beef - Cheek Meat - New Zealand,USDA Imported Meat - Fresh Beef - Cheek Meat - NZ,640,USDA Imported Meat - Fresh Beef,375
+18711,USDA Imported Meat - Fresh Beef - Cuts - New Zealand,USDA Imported Meat - Fresh Beef - Cuts - NZ,640,USDA Imported Meat - Fresh Beef,380
+18712,USDA Imported Meat - Fresh Beef - Edible Offal - New Zealand,USDA Imported Meat - Fresh Beef - Edible Offal - NZ,640,USDA Imported Meat - Fresh Beef,385
+18713,USDA Imported Meat - Fresh Beef - Head Meat - New Zealand,USDA Imported Meat - Fresh Beef - Head Meat - NZ,640,USDA Imported Meat - Fresh Beef,390
+18714,USDA Imported Meat - Fresh Beef - Other Intact - New Zealand,USDA Imported Meat - Fresh Beef - Other Intact - NZ,640,USDA Imported Meat - Fresh Beef,395
+18715,USDA Imported Meat - Fresh Beef - Primals & Subprimals - New Zealand,USDA Imported Meat - Fresh Beef - Primals & Subprimals - NZ,640,USDA Imported Meat - Fresh Beef,400
+18716,USDA Imported Meat - Fresh Beef - AMR - Nicaragua,USDA Imported Meat - Fresh Beef - AMR - NI,640,USDA Imported Meat - Fresh Beef,405
+18717,USDA Imported Meat - Fresh Beef - Boneless Trimmings - Nicaragua,USDA Imported Meat - Fresh Beef - Boneless Trimmings - NI,640,USDA Imported Meat - Fresh Beef,410
+18718,USDA Imported Meat - Fresh Beef - Cheek Meat - Nicaragua,USDA Imported Meat - Fresh Beef - Cheek Meat - NI,640,USDA Imported Meat - Fresh Beef,415
+18719,USDA Imported Meat - Fresh Beef - Cuts - Nicaragua,USDA Imported Meat - Fresh Beef - Cuts - NI,640,USDA Imported Meat - Fresh Beef,420
+18720,USDA Imported Meat - Fresh Beef - Edible Offal - Nicaragua,USDA Imported Meat - Fresh Beef - Edible Offal - NI,640,USDA Imported Meat - Fresh Beef,425
+18721,USDA Imported Meat - Fresh Beef - Head Meat - Nicaragua,USDA Imported Meat - Fresh Beef - Head Meat - NI,640,USDA Imported Meat - Fresh Beef,430
+18722,USDA Imported Meat - Fresh Beef - Other Intact - Nicaragua,USDA Imported Meat - Fresh Beef - Other Intact - NI,640,USDA Imported Meat - Fresh Beef,435
+18723,USDA Imported Meat - Fresh Beef - Primals & Subprimals - Nicaragua,USDA Imported Meat - Fresh Beef - Primals & Subprimals - NI,640,USDA Imported Meat - Fresh Beef,440
+18724,USDA Imported Meat - Fresh Beef - AMR - Uruguay,USDA Imported Meat - Fresh Beef - AMR - UY,640,USDA Imported Meat - Fresh Beef,445
+18725,USDA Imported Meat - Fresh Beef - Boneless Trimmings - Uruguay,USDA Imported Meat - Fresh Beef - Boneless Trimmings - UY,640,USDA Imported Meat - Fresh Beef,450
+18726,USDA Imported Meat - Fresh Beef - Cheek Meat - Uruguay,USDA Imported Meat - Fresh Beef - Cheek Meat - UY,640,USDA Imported Meat - Fresh Beef,455
+18727,USDA Imported Meat - Fresh Beef - Cuts - Uruguay,USDA Imported Meat - Fresh Beef - Cuts - UY,640,USDA Imported Meat - Fresh Beef,460
+18728,USDA Imported Meat - Fresh Beef - Edible Offal - Uruguay,USDA Imported Meat - Fresh Beef - Edible Offal - UY,640,USDA Imported Meat - Fresh Beef,465
+18729,USDA Imported Meat - Fresh Beef - Head Meat - Uruguay,USDA Imported Meat - Fresh Beef - Head Meat - UY,640,USDA Imported Meat - Fresh Beef,470
+18730,USDA Imported Meat - Fresh Beef - Other Intact - Uruguay,USDA Imported Meat - Fresh Beef - Other Intact - UY,640,USDA Imported Meat - Fresh Beef,475
+18731,USDA Imported Meat - Fresh Beef - Primals & Subprimals - Uruguay,USDA Imported Meat - Fresh Beef - Primals & Subprimals - UY,640,USDA Imported Meat - Fresh Beef,480
+18732,USDA Imported Meat - Fresh Beef - AMR - Total,USDA Imported Meat - Fresh Beef - AMR - Total,640,USDA Imported Meat - Fresh Beef,485
+18733,USDA Imported Meat - Fresh Beef - Boneless Trimmings - Total,USDA Imported Meat - Fresh Beef - Boneless Trimmings - Total,640,USDA Imported Meat - Fresh Beef,490
+18734,USDA Imported Meat - Fresh Beef - Cheek Meat - Total,USDA Imported Meat - Fresh Beef - Cheek Meat - Total,640,USDA Imported Meat - Fresh Beef,495
+18735,USDA Imported Meat - Fresh Beef - Cuts - Total,USDA Imported Meat - Fresh Beef - Cuts - Total,640,USDA Imported Meat - Fresh Beef,500
+18736,USDA Imported Meat - Fresh Beef - Edible Offal - Total,USDA Imported Meat - Fresh Beef - Edible Offal - Total,640,USDA Imported Meat - Fresh Beef,505
+18737,USDA Imported Meat - Fresh Beef - Head Meat - Total,USDA Imported Meat - Fresh Beef - Head Meat - Total,640,USDA Imported Meat - Fresh Beef,510
+18738,USDA Imported Meat - Fresh Beef - Other Intact - Total,USDA Imported Meat - Fresh Beef - Other Intact - Total,640,USDA Imported Meat - Fresh Beef,515
+18739,USDA Imported Meat - Fresh Beef - Primals & Subprimals - Total,USDA Imported Meat - Fresh Beef - Primals & Subprimals - Total,640,USDA Imported Meat - Fresh Beef,520
+18740,USDA Imported Meat - Processed Beef - Fully Cooked - Not Shelf Stable - Argentina,USDA Imported Meat - Processed Beef - Fully Cooked - Not Sh St - ARG,641,USDA Imported Meat - Processed Beef,5
+18741,USDA Imported Meat - Processed Beef - Heat Treated - Not Shelf Stable - Argentina,USDA Imported Meat - Processed Beef - Ht Trd  - Not Sh St - ARG,641,USDA Imported Meat - Processed Beef,10
+18742,USDA Imported Meat - Processed Beef - Heat Treated - Shelf Stable - Argentina,USDA Imported Meat - Processed Beef - Ht Trd  - Sh St - ARG,641,USDA Imported Meat - Processed Beef,15
+18743,USDA Imported Meat - Processed Beef - Thermally Processed - Argentina,USDA Imported Meat - Processed Beef - Thermally Processed - ARG,641,USDA Imported Meat - Processed Beef,20
+18744,USDA Imported Meat - Processed Beef - Fully Cooked - Not Shelf Stable - Australia,USDA Imported Meat - Processed Beef - Fully Cooked - Not Sh St - AUS,641,USDA Imported Meat - Processed Beef,25
+18745,USDA Imported Meat - Processed Beef - Heat Treated - Not Shelf Stable - Australia,USDA Imported Meat - Processed Beef - Ht Trd  - Not Sh St - AUS,641,USDA Imported Meat - Processed Beef,30
+18746,USDA Imported Meat - Processed Beef - Heat Treated - Shelf Stable - Australia,USDA Imported Meat - Processed Beef - Ht Trd  - Sh St - AUS,641,USDA Imported Meat - Processed Beef,35
+18747,USDA Imported Meat - Processed Beef - Thermally Processed - Australia,USDA Imported Meat - Processed Beef - Thermally Processed - AUS,641,USDA Imported Meat - Processed Beef,40
+18748,USDA Imported Meat - Processed Beef - Fully Cooked - Not Shelf Stable - Brazil,USDA Imported Meat - Processed Beef - Fully Cooked - Not Sh St - BRZ,641,USDA Imported Meat - Processed Beef,45
+18749,USDA Imported Meat - Processed Beef - Heat Treated - Not Shelf Stable - Brazil,USDA Imported Meat - Processed Beef - Ht Trd  - Not Sh St - BRZ,641,USDA Imported Meat - Processed Beef,50
+18750,USDA Imported Meat - Processed Beef - Heat Treated - Shelf Stable - Brazil,USDA Imported Meat - Processed Beef - Ht Trd  - Sh St - BRZ,641,USDA Imported Meat - Processed Beef,55
+18751,USDA Imported Meat - Processed Beef - Thermally Processed - Brazil,USDA Imported Meat - Processed Beef - Thermally Processed - BRZ,641,USDA Imported Meat - Processed Beef,60
+18752,USDA Imported Meat - Processed Beef - Fully Cooked - Not Shelf Stable - Canada,USDA Imported Meat - Processed Beef - Fully Cooked - Not Sh St - CAN,641,USDA Imported Meat - Processed Beef,65
+18753,USDA Imported Meat - Processed Beef - Heat Treated - Not Shelf Stable - Canada,USDA Imported Meat - Processed Beef - Ht Trd  - Not Sh St - CAN,641,USDA Imported Meat - Processed Beef,70
+18754,USDA Imported Meat - Processed Beef - Heat Treated - Shelf Stable - Canada,USDA Imported Meat - Processed Beef - Ht Trd  - Sh St - CAN,641,USDA Imported Meat - Processed Beef,75
+18755,USDA Imported Meat - Processed Beef - Thermally Processed - Canada,USDA Imported Meat - Processed Beef - Thermally Processed - CAN,641,USDA Imported Meat - Processed Beef,80
+18756,USDA Imported Meat - Processed Beef - Fully Cooked - Not Shelf Stable - Mexico,USDA Imported Meat - Processed Beef - Fully Cooked - Not Sh St - MEX,641,USDA Imported Meat - Processed Beef,85
+18757,USDA Imported Meat - Processed Beef - Heat Treated - Not Shelf Stable - Mexico,USDA Imported Meat - Processed Beef - Ht Trd  - Not Sh St - MEX,641,USDA Imported Meat - Processed Beef,90
+18758,USDA Imported Meat - Processed Beef - Heat Treated - Shelf Stable - Mexico,USDA Imported Meat - Processed Beef - Ht Trd  - Sh St - MEX,641,USDA Imported Meat - Processed Beef,95
+18759,USDA Imported Meat - Processed Beef - Thermally Processed - Mexico,USDA Imported Meat - Processed Beef - Thermally Processed - MEX,641,USDA Imported Meat - Processed Beef,100
+18760,USDA Imported Meat - Processed Beef - Fully Cooked - Not Shelf Stable - New Zealand,USDA Imported Meat - Processed Beef - Fully Cooked - Not Sh St - NZ,641,USDA Imported Meat - Processed Beef,105
+18761,USDA Imported Meat - Processed Beef - Heat Treated - Not Shelf Stable - New Zealand,USDA Imported Meat - Processed Beef - Ht Trd  - Not Sh St - NZ,641,USDA Imported Meat - Processed Beef,110
+18762,USDA Imported Meat - Processed Beef - Heat Treated - Shelf Stable - New Zealand,USDA Imported Meat - Processed Beef - Ht Trd  - Sh St - NZ,641,USDA Imported Meat - Processed Beef,115
+18763,USDA Imported Meat - Processed Beef - Thermally Processed - New Zealand,USDA Imported Meat - Processed Beef - Thermally Processed - NZ,641,USDA Imported Meat - Processed Beef,120
+18764,USDA Imported Meat - Processed Beef - Fully Cooked - Not Shelf Stable - Uruguay,USDA Imported Meat - Processed Beef - Fully Cooked - Not Sh St - UY,641,USDA Imported Meat - Processed Beef,125
+18765,USDA Imported Meat - Processed Beef - Heat Treated - Not Shelf Stable - Uruguay,USDA Imported Meat - Processed Beef - Ht Trd  - Not Sh St - UY,641,USDA Imported Meat - Processed Beef,130
+18766,USDA Imported Meat - Processed Beef - Heat Treated - Shelf Stable - Uruguay,USDA Imported Meat - Processed Beef - Ht Trd  - Sh St - UY,641,USDA Imported Meat - Processed Beef,135
+18767,USDA Imported Meat - Processed Beef - Thermally Processed - Uruguay,USDA Imported Meat - Processed Beef - Thermally Processed - UY,641,USDA Imported Meat - Processed Beef,140
+18768,USDA Imported Meat - Processed Beef - Fully Cooked - Not Shelf Stable - Total,USDA Imported Meat - Processed Beef - Fully Cooked - Not Sh St - Total,641,USDA Imported Meat - Processed Beef,145
+18769,USDA Imported Meat - Processed Beef - Heat Treated - Not Shelf Stable - Total,USDA Imported Meat - Processed Beef - Ht Trd  - Not Sh St - Total,641,USDA Imported Meat - Processed Beef,150
+18770,USDA Imported Meat - Processed Beef - Heat Treated - Shelf Stable - Total,USDA Imported Meat - Processed Beef - Ht Trd  - Sh St - Total,641,USDA Imported Meat - Processed Beef,155
+18771,USDA Imported Meat - Processed Beef - Thermally Processed - Total,USDA Imported Meat - Processed Beef - Thermally Processed - Total,641,USDA Imported Meat - Processed Beef,160
+18772,USDA Imported Meat - Fresh Pork - AMR - Brazil,USDA Imported Meat - Fresh Pork - AMR - BRZ,642,USDA Imported Meat - Fresh Pork,5
+18773,USDA Imported Meat - Fresh Pork - Boneless Trimmings - Brazil,USDA Imported Meat - Fresh Pork - Boneless Trimmings - BRZ,642,USDA Imported Meat - Fresh Pork,10
+18774,USDA Imported Meat - Fresh Pork - Cuts - Brazil,USDA Imported Meat - Fresh Pork - Cuts - BRZ,642,USDA Imported Meat - Fresh Pork,15
+18775,USDA Imported Meat - Fresh Pork - Edible Offal - Brazil,USDA Imported Meat - Fresh Pork - Edible Offal - BRZ,642,USDA Imported Meat - Fresh Pork,20
+18776,USDA Imported Meat - Fresh Pork - Other Intact - Brazil,USDA Imported Meat - Fresh Pork - Other Intact - BRZ,642,USDA Imported Meat - Fresh Pork,25
+18777,USDA Imported Meat - Fresh Pork - Primals & Subprimals - Brazil,USDA Imported Meat - Fresh Pork - Primals & Subprimals - BRZ,642,USDA Imported Meat - Fresh Pork,30
+18778,USDA Imported Meat - Fresh Pork - AMR - Canada,USDA Imported Meat - Fresh Pork - AMR - CAN,642,USDA Imported Meat - Fresh Pork,35
+18779,USDA Imported Meat - Fresh Pork - Boneless Trimmings - Canada,USDA Imported Meat - Fresh Pork - Boneless Trimmings - CAN,642,USDA Imported Meat - Fresh Pork,40
+18780,USDA Imported Meat - Fresh Pork - Cuts - Canada,USDA Imported Meat - Fresh Pork - Cuts - CAN,642,USDA Imported Meat - Fresh Pork,45
+18781,USDA Imported Meat - Fresh Pork - Edible Offal - Canada,USDA Imported Meat - Fresh Pork - Edible Offal - CAN,642,USDA Imported Meat - Fresh Pork,50
+18782,USDA Imported Meat - Fresh Pork - Other Intact - Canada,USDA Imported Meat - Fresh Pork - Other Intact - CAN,642,USDA Imported Meat - Fresh Pork,55
+18783,USDA Imported Meat - Fresh Pork - Primals & Subprimals - Canada,USDA Imported Meat - Fresh Pork - Primals & Subprimals - CAN,642,USDA Imported Meat - Fresh Pork,60
+18784,USDA Imported Meat - Fresh Pork - AMR - Chile,USDA Imported Meat - Fresh Pork - AMR - CHL,642,USDA Imported Meat - Fresh Pork,65
+18785,USDA Imported Meat - Fresh Pork - Boneless Trimmings - Chile,USDA Imported Meat - Fresh Pork - Boneless Trimmings - CHL,642,USDA Imported Meat - Fresh Pork,70
+18786,USDA Imported Meat - Fresh Pork - Cuts - Chile,USDA Imported Meat - Fresh Pork - Cuts - CHL,642,USDA Imported Meat - Fresh Pork,75
+18787,USDA Imported Meat - Fresh Pork - Edible Offal - Chile,USDA Imported Meat - Fresh Pork - Edible Offal - CHL,642,USDA Imported Meat - Fresh Pork,80
+18788,USDA Imported Meat - Fresh Pork - Other Intact - Chile,USDA Imported Meat - Fresh Pork - Other Intact - CHL,642,USDA Imported Meat - Fresh Pork,85
+18789,USDA Imported Meat - Fresh Pork - Primals & Subprimals - Chile,USDA Imported Meat - Fresh Pork - Primals & Subprimals - CHL,642,USDA Imported Meat - Fresh Pork,90
+18790,USDA Imported Meat - Fresh Pork - AMR - Denmark,USDA Imported Meat - Fresh Pork - AMR - DK,642,USDA Imported Meat - Fresh Pork,95
+18791,USDA Imported Meat - Fresh Pork - Boneless Trimmings - Denmark,USDA Imported Meat - Fresh Pork - Boneless Trimmings - DK,642,USDA Imported Meat - Fresh Pork,100
+18792,USDA Imported Meat - Fresh Pork - Cuts - Denmark,USDA Imported Meat - Fresh Pork - Cuts - DK,642,USDA Imported Meat - Fresh Pork,105
+18793,USDA Imported Meat - Fresh Pork - Edible Offal - Denmark,USDA Imported Meat - Fresh Pork - Edible Offal - DK,642,USDA Imported Meat - Fresh Pork,110
+18794,USDA Imported Meat - Fresh Pork - Other Intact - Denmark,USDA Imported Meat - Fresh Pork - Other Intact - DK,642,USDA Imported Meat - Fresh Pork,115
+18795,USDA Imported Meat - Fresh Pork - Primals & Subprimals - Denmark,USDA Imported Meat - Fresh Pork - Primals & Subprimals - DK,642,USDA Imported Meat - Fresh Pork,120
+18796,USDA Imported Meat - Fresh Pork - AMR - Finland,USDA Imported Meat - Fresh Pork - AMR - FI,642,USDA Imported Meat - Fresh Pork,125
+18797,USDA Imported Meat - Fresh Pork - Boneless Trimmings - Finland,USDA Imported Meat - Fresh Pork - Boneless Trimmings - FI,642,USDA Imported Meat - Fresh Pork,130
+18798,USDA Imported Meat - Fresh Pork - Cuts - Finland,USDA Imported Meat - Fresh Pork - Cuts - FI,642,USDA Imported Meat - Fresh Pork,135
+18799,USDA Imported Meat - Fresh Pork - Edible Offal - Finland,USDA Imported Meat - Fresh Pork - Edible Offal - FI,642,USDA Imported Meat - Fresh Pork,140
+18800,USDA Imported Meat - Fresh Pork - Other Intact - Finland,USDA Imported Meat - Fresh Pork - Other Intact - FI,642,USDA Imported Meat - Fresh Pork,145
+18801,USDA Imported Meat - Fresh Pork - Primals & Subprimals - Finland,USDA Imported Meat - Fresh Pork - Primals & Subprimals - FI,642,USDA Imported Meat - Fresh Pork,150
+18802,USDA Imported Meat - Fresh Pork - AMR - Ireland,USDA Imported Meat - Fresh Pork - AMR - IRL,642,USDA Imported Meat - Fresh Pork,155
+18803,USDA Imported Meat - Fresh Pork - Boneless Trimmings - Ireland,USDA Imported Meat - Fresh Pork - Boneless Trimmings - IRL,642,USDA Imported Meat - Fresh Pork,160
+18804,USDA Imported Meat - Fresh Pork - Cuts - Ireland,USDA Imported Meat - Fresh Pork - Cuts - IRL,642,USDA Imported Meat - Fresh Pork,165
+18805,USDA Imported Meat - Fresh Pork - Edible Offal - Ireland,USDA Imported Meat - Fresh Pork - Edible Offal - IRL,642,USDA Imported Meat - Fresh Pork,170
+18806,USDA Imported Meat - Fresh Pork - Other Intact - Ireland,USDA Imported Meat - Fresh Pork - Other Intact - IRL,642,USDA Imported Meat - Fresh Pork,175
+18807,USDA Imported Meat - Fresh Pork - Primals & Subprimals - Ireland,USDA Imported Meat - Fresh Pork - Primals & Subprimals - IRL,642,USDA Imported Meat - Fresh Pork,180
+18808,USDA Imported Meat - Fresh Pork - AMR - Mexico,USDA Imported Meat - Fresh Pork - AMR - MEX,642,USDA Imported Meat - Fresh Pork,185
+18809,USDA Imported Meat - Fresh Pork - Boneless Trimmings - Mexico,USDA Imported Meat - Fresh Pork - Boneless Trimmings - MEX,642,USDA Imported Meat - Fresh Pork,190
+18810,USDA Imported Meat - Fresh Pork - Cuts - Mexico,USDA Imported Meat - Fresh Pork - Cuts - MEX,642,USDA Imported Meat - Fresh Pork,195
+18811,USDA Imported Meat - Fresh Pork - Edible Offal - Mexico,USDA Imported Meat - Fresh Pork - Edible Offal - MEX,642,USDA Imported Meat - Fresh Pork,200
+18812,USDA Imported Meat - Fresh Pork - Other Intact - Mexico,USDA Imported Meat - Fresh Pork - Other Intact - MEX,642,USDA Imported Meat - Fresh Pork,205
+18813,USDA Imported Meat - Fresh Pork - Primals & Subprimals - Mexico,USDA Imported Meat - Fresh Pork - Primals & Subprimals - MEX,642,USDA Imported Meat - Fresh Pork,210
+18814,USDA Imported Meat - Fresh Pork - AMR - Netherlands,USDA Imported Meat - Fresh Pork - AMR - NL,642,USDA Imported Meat - Fresh Pork,215
+18815,USDA Imported Meat - Fresh Pork - Boneless Trimmings - Netherlands,USDA Imported Meat - Fresh Pork - Boneless Trimmings - NL,642,USDA Imported Meat - Fresh Pork,220
+18816,USDA Imported Meat - Fresh Pork - Cuts - Netherlands,USDA Imported Meat - Fresh Pork - Cuts - NL,642,USDA Imported Meat - Fresh Pork,225
+18817,USDA Imported Meat - Fresh Pork - Edible Offal - Netherlands,USDA Imported Meat - Fresh Pork - Edible Offal - NL,642,USDA Imported Meat - Fresh Pork,230
+18818,USDA Imported Meat - Fresh Pork - Other Intact - Netherlands,USDA Imported Meat - Fresh Pork - Other Intact - NL,642,USDA Imported Meat - Fresh Pork,235
+18819,USDA Imported Meat - Fresh Pork - Primals & Subprimals - Netherlands,USDA Imported Meat - Fresh Pork - Primals & Subprimals - NL,642,USDA Imported Meat - Fresh Pork,240
+18820,USDA Imported Meat - Fresh Pork - AMR - North Ireland,USDA Imported Meat - Fresh Pork - AMR - North IRL,642,USDA Imported Meat - Fresh Pork,245
+18821,USDA Imported Meat - Fresh Pork - Boneless Trimmings - North Ireland,USDA Imported Meat - Fresh Pork - Boneless Trimmings - North IRL,642,USDA Imported Meat - Fresh Pork,250
+18822,USDA Imported Meat - Fresh Pork - Cuts - North Ireland,USDA Imported Meat - Fresh Pork - Cuts - North IRL,642,USDA Imported Meat - Fresh Pork,255
+18823,USDA Imported Meat - Fresh Pork - Edible Offal - North Ireland,USDA Imported Meat - Fresh Pork - Edible Offal - North IRL,642,USDA Imported Meat - Fresh Pork,260
+18824,USDA Imported Meat - Fresh Pork - Other Intact - North Ireland,USDA Imported Meat - Fresh Pork - Other Intact - North IRL,642,USDA Imported Meat - Fresh Pork,265
+18825,USDA Imported Meat - Fresh Pork - Primals & Subprimals - North Ireland,USDA Imported Meat - Fresh Pork - Primals & Subprimals - North IRL,642,USDA Imported Meat - Fresh Pork,270
+18826,USDA Imported Meat - Fresh Pork - AMR - Poland,USDA Imported Meat - Fresh Pork - AMR - POL,642,USDA Imported Meat - Fresh Pork,275
+18827,USDA Imported Meat - Fresh Pork - Boneless Trimmings - Poland,USDA Imported Meat - Fresh Pork - Boneless Trimmings - POL,642,USDA Imported Meat - Fresh Pork,280
+18828,USDA Imported Meat - Fresh Pork - Cuts - Poland,USDA Imported Meat - Fresh Pork - Cuts - POL,642,USDA Imported Meat - Fresh Pork,285
+18829,USDA Imported Meat - Fresh Pork - Edible Offal - Poland,USDA Imported Meat - Fresh Pork - Edible Offal - POL,642,USDA Imported Meat - Fresh Pork,290
+18830,USDA Imported Meat - Fresh Pork - Other Intact - Poland,USDA Imported Meat - Fresh Pork - Other Intact - POL,642,USDA Imported Meat - Fresh Pork,295
+18831,USDA Imported Meat - Fresh Pork - Primals & Subprimals - Poland,USDA Imported Meat - Fresh Pork - Primals & Subprimals - POL,642,USDA Imported Meat - Fresh Pork,300
+18832,USDA Imported Meat - Fresh Pork - AMR - Spain,USDA Imported Meat - Fresh Pork - AMR - ESP,642,USDA Imported Meat - Fresh Pork,305
+18833,USDA Imported Meat - Fresh Pork - Boneless Trimmings - Spain,USDA Imported Meat - Fresh Pork - Boneless Trimmings - ESP,642,USDA Imported Meat - Fresh Pork,310
+18834,USDA Imported Meat - Fresh Pork - Cuts - Spain,USDA Imported Meat - Fresh Pork - Cuts - ESP,642,USDA Imported Meat - Fresh Pork,315
+18835,USDA Imported Meat - Fresh Pork - Edible Offal - Spain,USDA Imported Meat - Fresh Pork - Edible Offal - ESP,642,USDA Imported Meat - Fresh Pork,320
+18836,USDA Imported Meat - Fresh Pork - Other Intact - Spain,USDA Imported Meat - Fresh Pork - Other Intact - ESP,642,USDA Imported Meat - Fresh Pork,325
+18837,USDA Imported Meat - Fresh Pork - Primals & Subprimals - Spain,USDA Imported Meat - Fresh Pork - Primals & Subprimals - ESP,642,USDA Imported Meat - Fresh Pork,330
+18838,USDA Imported Meat - Fresh Pork - AMR - United Kingdom,USDA Imported Meat - Fresh Pork - AMR - UK,642,USDA Imported Meat - Fresh Pork,335
+18839,USDA Imported Meat - Fresh Pork - Boneless Trimmings - United Kingdom,USDA Imported Meat - Fresh Pork - Boneless Trimmings - UK,642,USDA Imported Meat - Fresh Pork,340
+18840,USDA Imported Meat - Fresh Pork - Cuts - United Kingdom,USDA Imported Meat - Fresh Pork - Cuts - UK,642,USDA Imported Meat - Fresh Pork,345
+18841,USDA Imported Meat - Fresh Pork - Edible Offal - United Kingdom,USDA Imported Meat - Fresh Pork - Edible Offal - UK,642,USDA Imported Meat - Fresh Pork,350
+18842,USDA Imported Meat - Fresh Pork - Other Intact - United Kingdom,USDA Imported Meat - Fresh Pork - Other Intact - UK,642,USDA Imported Meat - Fresh Pork,355
+18843,USDA Imported Meat - Fresh Pork - Primals & Subprimals - United Kingdom,USDA Imported Meat - Fresh Pork - Primals & Subprimals - UK,642,USDA Imported Meat - Fresh Pork,360
+18844,USDA Imported Meat - Fresh Pork - AMR - Total,USDA Imported Meat - Fresh Pork - AMR - Total,642,USDA Imported Meat - Fresh Pork,365
+18845,USDA Imported Meat - Fresh Pork - Boneless Trimmings - Total,USDA Imported Meat - Fresh Pork - Boneless Trimmings - Total,642,USDA Imported Meat - Fresh Pork,370
+18846,USDA Imported Meat - Fresh Pork - Cuts - Total,USDA Imported Meat - Fresh Pork - Cuts - Total,642,USDA Imported Meat - Fresh Pork,375
+18847,USDA Imported Meat - Fresh Pork - Edible Offal - Total,USDA Imported Meat - Fresh Pork - Edible Offal - Total,642,USDA Imported Meat - Fresh Pork,380
+18848,USDA Imported Meat - Fresh Pork - Other Intact - Total,USDA Imported Meat - Fresh Pork - Other Intact - Total,642,USDA Imported Meat - Fresh Pork,385
+18849,USDA Imported Meat - Fresh Pork - Primals & Subprimals - Total,USDA Imported Meat - Fresh Pork - Primals & Subprimals - Total,642,USDA Imported Meat - Fresh Pork,390
+18850,USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Canada,USDA Imported Meat - Processed Pork - Fully Cooked - Not Sh St- CAN,643,USDA Imported Meat - Processed Pork,5
+18851,USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Canada,USDA Imported Meat - Processed Pork - Ht - Not Sh St- CAN,643,USDA Imported Meat - Processed Pork,10
+18852,USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Canada,USDA Imported Meat - Processed Pork - Ht - Sh St- CAN,643,USDA Imported Meat - Processed Pork,15
+18853,USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Canada,USDA Imported Meat - Processed Pork - Not Ht - Sh St- CAN,643,USDA Imported Meat - Processed Pork,20
+18854,USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Canada,USDA Imported Meat - Processed Pork - Second Inhib Not Sh St- CAN,643,USDA Imported Meat - Processed Pork,25
+18855,USDA Imported Meat - Processed Pork - Thermally Processed - Canada,USDA Imported Meat - Processed Pork - Thermally Processed - CAN,643,USDA Imported Meat - Processed Pork,30
+18856,USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Croatia,USDA Imported Meat - Processed Pork - Fully Cooked - Not Sh St- CRO,643,USDA Imported Meat - Processed Pork,35
+18857,USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Croatia,USDA Imported Meat - Processed Pork - Ht - Not Sh St- CRO,643,USDA Imported Meat - Processed Pork,40
+18858,USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Croatia,USDA Imported Meat - Processed Pork - Ht - Sh St- CRO,643,USDA Imported Meat - Processed Pork,45
+18859,USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Croatia,USDA Imported Meat - Processed Pork - Not Ht - Sh St- CRO,643,USDA Imported Meat - Processed Pork,50
+18860,USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Croatia,USDA Imported Meat - Processed Pork - Second Inhib Not Sh St- CRO,643,USDA Imported Meat - Processed Pork,55
+18861,USDA Imported Meat - Processed Pork - Thermally Processed - Croatia,USDA Imported Meat - Processed Pork - Thermally Processed - CRO,643,USDA Imported Meat - Processed Pork,60
+18862,USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Denmark,USDA Imported Meat - Processed Pork - Fully Cooked - Not Sh St- DK,643,USDA Imported Meat - Processed Pork,65
+18863,USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Denmark,USDA Imported Meat - Processed Pork - Ht - Not Sh St- DK,643,USDA Imported Meat - Processed Pork,70
+18864,USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Denmark,USDA Imported Meat - Processed Pork - Ht - Sh St- DK,643,USDA Imported Meat - Processed Pork,75
+18865,USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Denmark,USDA Imported Meat - Processed Pork - Not Ht - Sh St- DK,643,USDA Imported Meat - Processed Pork,80
+18866,USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Denmark,USDA Imported Meat - Processed Pork - Second Inhib Not Sh St- DK,643,USDA Imported Meat - Processed Pork,85
+18867,USDA Imported Meat - Processed Pork - Thermally Processed - Denmark,USDA Imported Meat - Processed Pork - Thermally Processed - DK,643,USDA Imported Meat - Processed Pork,90
+18868,USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Germany,USDA Imported Meat - Processed Pork - Fully Cooked - Not Sh St- GER,643,USDA Imported Meat - Processed Pork,95
+18869,USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Germany,USDA Imported Meat - Processed Pork - Ht - Not Sh St- GER,643,USDA Imported Meat - Processed Pork,100
+18870,USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Germany,USDA Imported Meat - Processed Pork - Ht - Sh St- GER,643,USDA Imported Meat - Processed Pork,105
+18871,USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Germany,USDA Imported Meat - Processed Pork - Not Ht - Sh St- GER,643,USDA Imported Meat - Processed Pork,110
+18872,USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Germany,USDA Imported Meat - Processed Pork - Second Inhib Not Sh St- GER,643,USDA Imported Meat - Processed Pork,115
+18873,USDA Imported Meat - Processed Pork - Thermally Processed - Germany,USDA Imported Meat - Processed Pork - Thermally Processed - GER,643,USDA Imported Meat - Processed Pork,120
+18874,USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Hungary,USDA Imported Meat - Processed Pork - Fully Cooked - Not Sh St- HUN,643,USDA Imported Meat - Processed Pork,125
+18875,USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Hungary,USDA Imported Meat - Processed Pork - Ht - Not Sh St- HUN,643,USDA Imported Meat - Processed Pork,130
+18876,USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Hungary,USDA Imported Meat - Processed Pork - Ht - Sh St- HUN,643,USDA Imported Meat - Processed Pork,135
+18877,USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Hungary,USDA Imported Meat - Processed Pork - Not Ht - Sh St- HUN,643,USDA Imported Meat - Processed Pork,140
+18878,USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Hungary,USDA Imported Meat - Processed Pork - Second Inhib Not Sh St- HUN,643,USDA Imported Meat - Processed Pork,145
+18879,USDA Imported Meat - Processed Pork - Thermally Processed - Hungary,USDA Imported Meat - Processed Pork - Thermally Processed - HUN,643,USDA Imported Meat - Processed Pork,150
+18880,USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Italy,USDA Imported Meat - Processed Pork - Fully Cooked - Not Sh St- IT,643,USDA Imported Meat - Processed Pork,155
+18881,USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Italy,USDA Imported Meat - Processed Pork - Ht - Not Sh St- IT,643,USDA Imported Meat - Processed Pork,160
+18882,USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Italy,USDA Imported Meat - Processed Pork - Ht - Sh St- IT,643,USDA Imported Meat - Processed Pork,165
+18883,USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Italy,USDA Imported Meat - Processed Pork - Not Ht - Sh St- IT,643,USDA Imported Meat - Processed Pork,170
+18884,USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Italy,USDA Imported Meat - Processed Pork - Second Inhib Not Sh St- IT,643,USDA Imported Meat - Processed Pork,175
+18885,USDA Imported Meat - Processed Pork - Thermally Processed - Italy,USDA Imported Meat - Processed Pork - Thermally Processed - IT,643,USDA Imported Meat - Processed Pork,180
+18886,USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Mexico,USDA Imported Meat - Processed Pork - Fully Cooked - Not Sh St- MEX,643,USDA Imported Meat - Processed Pork,185
+18887,USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Mexico,USDA Imported Meat - Processed Pork - Ht - Not Sh St- MEX,643,USDA Imported Meat - Processed Pork,190
+18888,USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Mexico,USDA Imported Meat - Processed Pork - Ht - Sh St- MEX,643,USDA Imported Meat - Processed Pork,195
+18889,USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Mexico,USDA Imported Meat - Processed Pork - Not Ht - Sh St- MEX,643,USDA Imported Meat - Processed Pork,200
+18890,USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Mexico,USDA Imported Meat - Processed Pork - Second Inhib Not Sh St- MEX,643,USDA Imported Meat - Processed Pork,205
+18891,USDA Imported Meat - Processed Pork - Thermally Processed - Mexico,USDA Imported Meat - Processed Pork - Thermally Processed - MEX,643,USDA Imported Meat - Processed Pork,210
+18892,USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Netherlands,USDA Imported Meat - Processed Pork - Fully Cooked - Not Sh St- NL,643,USDA Imported Meat - Processed Pork,215
+18893,USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Netherlands,USDA Imported Meat - Processed Pork - Ht - Not Sh St- NL,643,USDA Imported Meat - Processed Pork,220
+18894,USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Netherlands,USDA Imported Meat - Processed Pork - Ht - Sh St- NL,643,USDA Imported Meat - Processed Pork,225
+18895,USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Netherlands,USDA Imported Meat - Processed Pork - Not Ht - Sh St- NL,643,USDA Imported Meat - Processed Pork,230
+18896,USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Netherlands,USDA Imported Meat - Processed Pork - Second Inhib Not Sh St- NL,643,USDA Imported Meat - Processed Pork,235
+18897,USDA Imported Meat - Processed Pork - Thermally Processed - Netherlands,USDA Imported Meat - Processed Pork - Thermally Processed - NL,643,USDA Imported Meat - Processed Pork,240
+18898,USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Poland,USDA Imported Meat - Processed Pork - Fully Cooked - Not Sh St- POL,643,USDA Imported Meat - Processed Pork,245
+18899,USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Poland,USDA Imported Meat - Processed Pork - Ht - Not Sh St- POL,643,USDA Imported Meat - Processed Pork,250
+18900,USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Poland,USDA Imported Meat - Processed Pork - Ht - Sh St- POL,643,USDA Imported Meat - Processed Pork,255
+18901,USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Poland,USDA Imported Meat - Processed Pork - Not Ht - Sh St- POL,643,USDA Imported Meat - Processed Pork,260
+18902,USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Poland,USDA Imported Meat - Processed Pork - Second Inhib Not Sh St- POL,643,USDA Imported Meat - Processed Pork,265
+18903,USDA Imported Meat - Processed Pork - Thermally Processed - Poland,USDA Imported Meat - Processed Pork - Thermally Processed - POL,643,USDA Imported Meat - Processed Pork,270
+18904,USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Spain,USDA Imported Meat - Processed Pork - Fully Cooked - Not Sh St- ESP,643,USDA Imported Meat - Processed Pork,275
+18905,USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Spain,USDA Imported Meat - Processed Pork - Ht - Not Sh St- ESP,643,USDA Imported Meat - Processed Pork,280
+18906,USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Spain,USDA Imported Meat - Processed Pork - Ht - Sh St- ESP,643,USDA Imported Meat - Processed Pork,285
+18907,USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Spain,USDA Imported Meat - Processed Pork - Not Ht - Sh St- ESP,643,USDA Imported Meat - Processed Pork,290
+18908,USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Spain,USDA Imported Meat - Processed Pork - Second Inhib Not Sh St- ESP,643,USDA Imported Meat - Processed Pork,295
+18909,USDA Imported Meat - Processed Pork - Thermally Processed - Spain,USDA Imported Meat - Processed Pork - Thermally Processed - ESP,643,USDA Imported Meat - Processed Pork,300
+18910,USDA Imported Meat - Processed Pork - Fully Cooked - Not Shelf Stable - Total,USDA Imported Meat - Processed Pork - Fully Cooked - Not Sh St- Total,643,USDA Imported Meat - Processed Pork,305
+18911,USDA Imported Meat - Processed Pork - Heat Treated - Not Shelf Stable - Total,USDA Imported Meat - Processed Pork - Ht - Not Sh St- Total,643,USDA Imported Meat - Processed Pork,310
+18912,USDA Imported Meat - Processed Pork - Heat Treated - Shelf Stable - Total,USDA Imported Meat - Processed Pork - Ht - Sh St- Total,643,USDA Imported Meat - Processed Pork,315
+18913,USDA Imported Meat - Processed Pork - Not Heat Treated - Shelf Stable - Total,USDA Imported Meat - Processed Pork - Not Ht - Sh St- Total,643,USDA Imported Meat - Processed Pork,320
+18914,USDA Imported Meat - Processed Pork - Second Inhib Not Shelf Stable - Total,USDA Imported Meat - Processed Pork - Second Inhib Not Sh St- Total,643,USDA Imported Meat - Processed Pork,325
+18915,USDA Imported Meat - Processed Pork - Thermally Processed - Total,USDA Imported Meat - Processed Pork - Thermally Processed - Total,643,USDA Imported Meat - Processed Pork,330
+18916,USDA Imported Meat - Lamb - Boneless Trimmings - Australia,USDA Imported Meat - Lamb - Boneless Trimmings - AUS,644,USDA Imported Meat - Lamb,5
+18917,USDA Imported Meat - Lamb - Carcasses - Australia,USDA Imported Meat - Lamb - Carcasses - AUS,644,USDA Imported Meat - Lamb,10
+18918,USDA Imported Meat - Lamb - Cuts - Australia,USDA Imported Meat - Lamb - Cuts - AUS,644,USDA Imported Meat - Lamb,15
+18919,USDA Imported Meat - Lamb - Edible Offal - Australia,USDA Imported Meat - Lamb - Edible Offal - AUS,644,USDA Imported Meat - Lamb,20
+18920,USDA Imported Meat - Lamb - Primals & Subprimals - Australia,USDA Imported Meat - Lamb - Primals & Subprimals - AUS,644,USDA Imported Meat - Lamb,25
+18921,USDA Imported Meat - Lamb - Boneless Trimmings - Canada,USDA Imported Meat - Lamb - Boneless Trimmings - CAN,644,USDA Imported Meat - Lamb,30
+18922,USDA Imported Meat - Lamb - Carcasses - Canada,USDA Imported Meat - Lamb - Carcasses - CAN,644,USDA Imported Meat - Lamb,35
+18923,USDA Imported Meat - Lamb - Cuts - Canada,USDA Imported Meat - Lamb - Cuts - CAN,644,USDA Imported Meat - Lamb,40
+18924,USDA Imported Meat - Lamb - Edible Offal - Canada,USDA Imported Meat - Lamb - Edible Offal - CAN,644,USDA Imported Meat - Lamb,45
+18925,USDA Imported Meat - Lamb - Primals & Subprimals - Canada,USDA Imported Meat - Lamb - Primals & Subprimals - CAN,644,USDA Imported Meat - Lamb,50
+18926,USDA Imported Meat - Lamb - Boneless Trimmings - Chile,USDA Imported Meat - Lamb - Boneless Trimmings - CHL,644,USDA Imported Meat - Lamb,55
+18927,USDA Imported Meat - Lamb - Carcasses - Chile,USDA Imported Meat - Lamb - Carcasses - CHL,644,USDA Imported Meat - Lamb,60
+18928,USDA Imported Meat - Lamb - Cuts - Chile,USDA Imported Meat - Lamb - Cuts - CHL,644,USDA Imported Meat - Lamb,65
+18929,USDA Imported Meat - Lamb - Edible Offal - Chile,USDA Imported Meat - Lamb - Edible Offal - CHL,644,USDA Imported Meat - Lamb,70
+18930,USDA Imported Meat - Lamb - Primals & Subprimals - Chile,USDA Imported Meat - Lamb - Primals & Subprimals - CHL,644,USDA Imported Meat - Lamb,75
+18931,USDA Imported Meat - Lamb - Boneless Trimmings - Iceland,USDA Imported Meat - Lamb - Boneless Trimmings - IS,644,USDA Imported Meat - Lamb,80
+18932,USDA Imported Meat - Lamb - Carcasses - Iceland,USDA Imported Meat - Lamb - Carcasses - IS,644,USDA Imported Meat - Lamb,85
+18933,USDA Imported Meat - Lamb - Cuts - Iceland,USDA Imported Meat - Lamb - Cuts - IS,644,USDA Imported Meat - Lamb,90
+18934,USDA Imported Meat - Lamb - Edible Offal - Iceland,USDA Imported Meat - Lamb - Edible Offal - IS,644,USDA Imported Meat - Lamb,95
+18935,USDA Imported Meat - Lamb - Primals & Subprimals - Iceland,USDA Imported Meat - Lamb - Primals & Subprimals - IS,644,USDA Imported Meat - Lamb,100
+18936,USDA Imported Meat - Lamb - Boneless Trimmings - New Zealand,USDA Imported Meat - Lamb - Boneless Trimmings - NZ,644,USDA Imported Meat - Lamb,105
+18937,USDA Imported Meat - Lamb - Carcasses - New Zealand,USDA Imported Meat - Lamb - Carcasses - NZ,644,USDA Imported Meat - Lamb,110
+18938,USDA Imported Meat - Lamb - Cuts - New Zealand,USDA Imported Meat - Lamb - Cuts - NZ,644,USDA Imported Meat - Lamb,115
+18939,USDA Imported Meat - Lamb - Edible Offal - New Zealand,USDA Imported Meat - Lamb - Edible Offal - NZ,644,USDA Imported Meat - Lamb,120
+18940,USDA Imported Meat - Lamb - Primals & Subprimals - New Zealand,USDA Imported Meat - Lamb - Primals & Subprimals - NZ,644,USDA Imported Meat - Lamb,125
+18941,USDA Imported Meat - Lamb - Boneless Trimmings - Total,USDA Imported Meat - Lamb - Boneless Trimmings - Total,644,USDA Imported Meat - Lamb,130
+18942,USDA Imported Meat - Lamb - Carcasses - Total,USDA Imported Meat - Lamb - Carcasses - Total,644,USDA Imported Meat - Lamb,135
+18943,USDA Imported Meat - Lamb - Cuts - Total,USDA Imported Meat - Lamb - Cuts - Total,644,USDA Imported Meat - Lamb,140
+18944,USDA Imported Meat - Lamb - Edible Offal - Total,USDA Imported Meat - Lamb - Edible Offal - Total,644,USDA Imported Meat - Lamb,145
+18945,USDA Imported Meat - Lamb - Primals & Subprimals - Total,USDA Imported Meat - Lamb - Primals & Subprimals - Total,644,USDA Imported Meat - Lamb,150
+18946,USDA Imported Meat - Mutton - Boneless Trimmings - Australia,USDA Imported Meat - Mutton - Boneless Trimmings - AUS,645,USDA Imported Meat - Mutton,5
+18947,USDA Imported Meat - Mutton - Carcasses - Australia,USDA Imported Meat - Mutton - Carcasses - AUS,645,USDA Imported Meat - Mutton,10
+18948,USDA Imported Meat - Mutton - Cuts - Australia,USDA Imported Meat - Mutton - Cuts - AUS,645,USDA Imported Meat - Mutton,15
+18949,USDA Imported Meat - Mutton - Edible Offal - Australia,USDA Imported Meat - Mutton - Edible Offal - AUS,645,USDA Imported Meat - Mutton,20
+18950,USDA Imported Meat - Mutton - Primals & Subprimals - Australia,USDA Imported Meat - Mutton - Primals & Subprimals - AUS,645,USDA Imported Meat - Mutton,25
+18951,USDA Imported Meat - Mutton - Boneless Trimmings - Chile,USDA Imported Meat - Mutton - Boneless Trimmings - CHL,645,USDA Imported Meat - Mutton,30
+18952,USDA Imported Meat - Mutton - Carcasses - Chile,USDA Imported Meat - Mutton - Carcasses - CHL,645,USDA Imported Meat - Mutton,35
+18953,USDA Imported Meat - Mutton - Cuts - Chile,USDA Imported Meat - Mutton - Cuts - CHL,645,USDA Imported Meat - Mutton,40
+18954,USDA Imported Meat - Mutton - Edible Offal - Chile,USDA Imported Meat - Mutton - Edible Offal - CHL,645,USDA Imported Meat - Mutton,45
+18955,USDA Imported Meat - Mutton - Primals & Subprimals - Chile,USDA Imported Meat - Mutton - Primals & Subprimals - CHL,645,USDA Imported Meat - Mutton,50
+18956,USDA Imported Meat - Mutton - Boneless Trimmings - New Zealand,USDA Imported Meat - Mutton - Boneless Trimmings - NZ,645,USDA Imported Meat - Mutton,55
+18957,USDA Imported Meat - Mutton - Carcasses - New Zealand,USDA Imported Meat - Mutton - Carcasses - NZ,645,USDA Imported Meat - Mutton,60
+18958,USDA Imported Meat - Mutton - Cuts - New Zealand,USDA Imported Meat - Mutton - Cuts - NZ,645,USDA Imported Meat - Mutton,65
+18959,USDA Imported Meat - Mutton - Edible Offal - New Zealand,USDA Imported Meat - Mutton - Edible Offal - NZ,645,USDA Imported Meat - Mutton,70
+18960,USDA Imported Meat - Mutton - Primals & Subprimals - New Zealand,USDA Imported Meat - Mutton - Primals & Subprimals - NZ,645,USDA Imported Meat - Mutton,75
+18961,USDA Imported Meat - Mutton - Boneless Trimmings - Total,USDA Imported Meat - Mutton - Boneless Trimmings - Total,645,USDA Imported Meat - Mutton,80
+18962,USDA Imported Meat - Mutton - Carcasses - Total,USDA Imported Meat - Mutton - Carcasses - Total,645,USDA Imported Meat - Mutton,85
+18963,USDA Imported Meat - Mutton - Cuts - Total,USDA Imported Meat - Mutton - Cuts - Total,645,USDA Imported Meat - Mutton,90
+18964,USDA Imported Meat - Mutton - Edible Offal - Total,USDA Imported Meat - Mutton - Edible Offal - Total,645,USDA Imported Meat - Mutton,95
+18965,USDA Imported Meat - Mutton - Primals & Subprimals - Total,USDA Imported Meat - Mutton - Primals & Subprimals - Total,645,USDA Imported Meat - Mutton,100
+18966,USDA Imported Meat - Veal - Boneless Trimmings - Australia,USDA Imported Meat - Veal - Boneless Trimmings - AUS,646,USDA Imported Meat - Veal,5
+18967,USDA Imported Meat - Veal - Carcasses - Australia,USDA Imported Meat - Veal - Carcasses - AUS,646,USDA Imported Meat - Veal,10
+18968,USDA Imported Meat - Veal - Cuts - Australia,USDA Imported Meat - Veal - Cuts - AUS,646,USDA Imported Meat - Veal,15
+18969,USDA Imported Meat - Veal - Edible Offal - Australia,USDA Imported Meat - Veal - Edible Offal - AUS,646,USDA Imported Meat - Veal,20
+18970,USDA Imported Meat - Veal - Other Intact - Australia,USDA Imported Meat - Veal - Other Intact - AUS,646,USDA Imported Meat - Veal,25
+18971,USDA Imported Meat - Veal - Primals & Subprimals - Australia,USDA Imported Meat - Veal - Primals & Subprimals - AUS,646,USDA Imported Meat - Veal,30
+18972,USDA Imported Meat - Veal - Boneless Trimmings - Canada,USDA Imported Meat - Veal - Boneless Trimmings - CAN,646,USDA Imported Meat - Veal,35
+18973,USDA Imported Meat - Veal - Carcasses - Canada,USDA Imported Meat - Veal - Carcasses - CAN,646,USDA Imported Meat - Veal,40
+18974,USDA Imported Meat - Veal - Cuts - Canada,USDA Imported Meat - Veal - Cuts - CAN,646,USDA Imported Meat - Veal,45
+18975,USDA Imported Meat - Veal - Edible Offal - Canada,USDA Imported Meat - Veal - Edible Offal - CAN,646,USDA Imported Meat - Veal,50
+18976,USDA Imported Meat - Veal - Other Intact - Canada,USDA Imported Meat - Veal - Other Intact - CAN,646,USDA Imported Meat - Veal,55
+18977,USDA Imported Meat - Veal - Primals & Subprimals - Canada,USDA Imported Meat - Veal - Primals & Subprimals - CAN,646,USDA Imported Meat - Veal,60
+18978,USDA Imported Meat - Veal - Boneless Trimmings - New Zealand,USDA Imported Meat - Veal - Boneless Trimmings - NZ,646,USDA Imported Meat - Veal,65
+18979,USDA Imported Meat - Veal - Carcasses - New Zealand,USDA Imported Meat - Veal - Carcasses - NZ,646,USDA Imported Meat - Veal,70
+18980,USDA Imported Meat - Veal - Cuts - New Zealand,USDA Imported Meat - Veal - Cuts - NZ,646,USDA Imported Meat - Veal,75
+18981,USDA Imported Meat - Veal - Edible Offal - New Zealand,USDA Imported Meat - Veal - Edible Offal - NZ,646,USDA Imported Meat - Veal,80
+18982,USDA Imported Meat - Veal - Other Intact - New Zealand,USDA Imported Meat - Veal - Other Intact - NZ,646,USDA Imported Meat - Veal,85
+18983,USDA Imported Meat - Veal - Primals & Subprimals - New Zealand,USDA Imported Meat - Veal - Primals & Subprimals - NZ,646,USDA Imported Meat - Veal,90
+18984,USDA Imported Meat - Veal - Boneless Trimmings - Total,USDA Imported Meat - Veal - Boneless Trimmings - Total,646,USDA Imported Meat - Veal,95
+18985,USDA Imported Meat - Veal - Carcasses - Total,USDA Imported Meat - Veal - Carcasses - Total,646,USDA Imported Meat - Veal,100
+18986,USDA Imported Meat - Veal - Cuts - Total,USDA Imported Meat - Veal - Cuts - Total,646,USDA Imported Meat - Veal,105
+18987,USDA Imported Meat - Veal - Edible Offal - Total,USDA Imported Meat - Veal - Edible Offal - Total,646,USDA Imported Meat - Veal,110
+18988,USDA Imported Meat - Veal - Other Intact - Total,USDA Imported Meat - Veal - Other Intact - Total,646,USDA Imported Meat - Veal,115
+18989,USDA Imported Meat - Veal - Primals & Subprimals - Total,USDA Imported Meat - Veal - Primals & Subprimals - Total,646,USDA Imported Meat - Veal,120
+18990,USDA Imported Meat - Poultry - NRTE Processed Poultry - Canada,USDA Imported Meat - Poultry - NRTE Processed Poultry - CAN,647,USDA Imported Meat - Poultry,5
+18991,"USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Chicken - Canada","USDA Imported Meat - Poultry - Raw Grd, Comm, or Non-Int Chicken - CAN",647,USDA Imported Meat - Poultry,10
+18992,"USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Turkey - Canada","USDA Imported Meat - Poultry - Raw Grd, Comm, or Non-Int Turkey - CAN",647,USDA Imported Meat - Poultry,15
+18993,USDA Imported Meat - Poultry - Raw Intact Chicken - Canada,USDA Imported Meat - Poultry - Raw Int Chicken - CAN,647,USDA Imported Meat - Poultry,20
+18994,"USDA Imported Meat - Poultry - Raw Intact Poultry - (Ducks, Geeze, Squab) - Canada",USDA Imported Meat - Poultry - Raw Int Poultry - (Other) - CAN,647,USDA Imported Meat - Poultry,25
+18995,USDA Imported Meat - Poultry - Raw Intact Turkey - Canada,USDA Imported Meat - Poultry - Raw Int Turkey - CAN,647,USDA Imported Meat - Poultry,30
+18996,USDA Imported Meat - Poultry - RTE Fully Cooked Poultry - Canada,USDA Imported Meat - Poultry - RTE Fully Cooked Poultry - CAN,647,USDA Imported Meat - Poultry,35
+18997,USDA Imported Meat - Poultry - Thermally Processed - Canada,USDA Imported Meat - Poultry - Thermally Processed - CAN,647,USDA Imported Meat - Poultry,40
+18998,USDA Imported Meat - Poultry - NRTE Processed Poultry - Chile,USDA Imported Meat - Poultry - NRTE Processed Poultry - CHL,647,USDA Imported Meat - Poultry,45
+18999,"USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Chicken - Chile","USDA Imported Meat - Poultry - Raw Grd, Comm, or Non-Int Chicken - CHL",647,USDA Imported Meat - Poultry,50
+19000,"USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Turkey - Chile","USDA Imported Meat - Poultry - Raw Grd, Comm, or Non-Int Turkey - CHL",647,USDA Imported Meat - Poultry,55
+19001,USDA Imported Meat - Poultry - Raw Intact Chicken - Chile,USDA Imported Meat - Poultry - Raw Int Chicken - CHL,647,USDA Imported Meat - Poultry,60
+19002,"USDA Imported Meat - Poultry - Raw Intact Poultry - (Ducks, Geeze, Squab) - Chile",USDA Imported Meat - Poultry - Raw Int Poultry - (Other) - CHL,647,USDA Imported Meat - Poultry,65
+19003,USDA Imported Meat - Poultry - Raw Intact Turkey - Chile,USDA Imported Meat - Poultry - Raw Int Turkey - CHL,647,USDA Imported Meat - Poultry,70
+19004,USDA Imported Meat - Poultry - RTE Fully Cooked Poultry - Chile,USDA Imported Meat - Poultry - RTE Fully Cooked Poultry - CHL,647,USDA Imported Meat - Poultry,75
+19005,USDA Imported Meat - Poultry - Thermally Processed - Chile,USDA Imported Meat - Poultry - Thermally Processed - CHL,647,USDA Imported Meat - Poultry,80
+19006,USDA Imported Meat - Poultry - NRTE Processed Poultry - Israel,USDA Imported Meat - Poultry - NRTE Processed Poultry - IL,647,USDA Imported Meat - Poultry,85
+19007,"USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Chicken - Israel","USDA Imported Meat - Poultry - Raw Grd, Comm, or Non-Int Chicken - IL",647,USDA Imported Meat - Poultry,90
+19008,"USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Turkey - Israel","USDA Imported Meat - Poultry - Raw Grd, Comm, or Non-Int Turkey - IL",647,USDA Imported Meat - Poultry,95
+19009,USDA Imported Meat - Poultry - Raw Intact Chicken - Israel,USDA Imported Meat - Poultry - Raw Int Chicken - IL,647,USDA Imported Meat - Poultry,100
+19010,"USDA Imported Meat - Poultry - Raw Intact Poultry - (Ducks, Geeze, Squab) - Israel",USDA Imported Meat - Poultry - Raw Int Poultry - (Other) - IL,647,USDA Imported Meat - Poultry,105
+19011,USDA Imported Meat - Poultry - Raw Intact Turkey - Israel,USDA Imported Meat - Poultry - Raw Int Turkey - IL,647,USDA Imported Meat - Poultry,110
+19012,USDA Imported Meat - Poultry - RTE Fully Cooked Poultry - Israel,USDA Imported Meat - Poultry - RTE Fully Cooked Poultry - IL,647,USDA Imported Meat - Poultry,115
+19013,USDA Imported Meat - Poultry - Thermally Processed - Israel,USDA Imported Meat - Poultry - Thermally Processed - IL,647,USDA Imported Meat - Poultry,120
+19014,USDA Imported Meat - Poultry - NRTE Processed Poultry - Mexico,USDA Imported Meat - Poultry - NRTE Processed Poultry - MEX,647,USDA Imported Meat - Poultry,125
+19015,"USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Chicken - Mexico","USDA Imported Meat - Poultry - Raw Grd, Comm, or Non-Int Chicken - MEX",647,USDA Imported Meat - Poultry,130
+19016,"USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Turkey - Mexico","USDA Imported Meat - Poultry - Raw Grd, Comm, or Non-Int Turkey - MEX",647,USDA Imported Meat - Poultry,135
+19017,USDA Imported Meat - Poultry - Raw Intact Chicken - Mexico,USDA Imported Meat - Poultry - Raw Int Chicken - MEX,647,USDA Imported Meat - Poultry,140
+19018,"USDA Imported Meat - Poultry - Raw Intact Poultry - (Ducks, Geeze, Squab) - Mexico",USDA Imported Meat - Poultry - Raw Int Poultry - (Other) - MEX,647,USDA Imported Meat - Poultry,145
+19019,USDA Imported Meat - Poultry - Raw Intact Turkey - Mexico,USDA Imported Meat - Poultry - Raw Int Turkey - MEX,647,USDA Imported Meat - Poultry,150
+19020,USDA Imported Meat - Poultry - RTE Fully Cooked Poultry - Mexico,USDA Imported Meat - Poultry - RTE Fully Cooked Poultry - MEX,647,USDA Imported Meat - Poultry,155
+19021,USDA Imported Meat - Poultry - Thermally Processed - Mexico,USDA Imported Meat - Poultry - Thermally Processed - MEX,647,USDA Imported Meat - Poultry,160
+19022,USDA Imported Meat - Poultry - NRTE Processed Poultry - South Korea,USDA Imported Meat - Poultry - NRTE Processed Poultry - SK,647,USDA Imported Meat - Poultry,165
+19023,"USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Chicken - South Korea","USDA Imported Meat - Poultry - Raw Grd, Comm, or Non-Int Chicken - SK",647,USDA Imported Meat - Poultry,170
+19024,"USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Turkey - South Korea","USDA Imported Meat - Poultry - Raw Grd, Comm, or Non-Int Turkey - SK",647,USDA Imported Meat - Poultry,175
+19025,USDA Imported Meat - Poultry - Raw Intact Chicken - South Korea,USDA Imported Meat - Poultry - Raw Int Chicken - SK,647,USDA Imported Meat - Poultry,180
+19026,"USDA Imported Meat - Poultry - Raw Intact Poultry - (Ducks, Geeze, Squab) - South Korea",USDA Imported Meat - Poultry - Raw Int Poultry - (Other) - SK,647,USDA Imported Meat - Poultry,185
+19027,USDA Imported Meat - Poultry - Raw Intact Turkey - South Korea,USDA Imported Meat - Poultry - Raw Int Turkey - SK,647,USDA Imported Meat - Poultry,190
+19028,USDA Imported Meat - Poultry - RTE Fully Cooked Poultry - South Korea,USDA Imported Meat - Poultry - RTE Fully Cooked Poultry - SK,647,USDA Imported Meat - Poultry,195
+19029,USDA Imported Meat - Poultry - Thermally Processed - South Korea,USDA Imported Meat - Poultry - Thermally Processed - SK,647,USDA Imported Meat - Poultry,200
+19030,USDA Imported Meat - Poultry - NRTE Processed Poultry - Total,USDA Imported Meat - Poultry - NRTE Processed Poultry - Total,647,USDA Imported Meat - Poultry,205
+19031,"USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Chicken - Total","USDA Imported Meat - Poultry - Raw Grd, Comm, or Non-Int Chick - Total",647,USDA Imported Meat - Poultry,210
+19032,"USDA Imported Meat - Poultry - Raw Ground, Comminuted, or Non-Intact Turkey - Total","USDA Imported Meat - Poultry - Raw Grd, Comm, or Non-Int Turk - Total",647,USDA Imported Meat - Poultry,215
+19033,USDA Imported Meat - Poultry - Raw Intact Chicken - Total,USDA Imported Meat - Poultry - Raw Int Chicken - Total,647,USDA Imported Meat - Poultry,220
+19034,"USDA Imported Meat - Poultry - Raw Intact Poultry - (Ducks, Geeze, Squab) - Total",USDA Imported Meat - Poultry - Raw Int Poultry - (Other) - Total,647,USDA Imported Meat - Poultry,225
+19035,USDA Imported Meat - Poultry - Raw Intact Turkey - Total,USDA Imported Meat - Poultry - Raw Int Turkey - Total,647,USDA Imported Meat - Poultry,230
+19036,USDA Imported Meat - Poultry - RTE Fully Cooked Poultry - Total,USDA Imported Meat - Poultry - RTE Fully Cooked Poultry - Total,647,USDA Imported Meat - Poultry,235
+19037,USDA Imported Meat - Poultry - Thermally Processed - Total,USDA Imported Meat - Poultry - Thermally Processed - Total,647,USDA Imported Meat - Poultry,240

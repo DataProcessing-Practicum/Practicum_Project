@@ -1,0 +1,80 @@
+P	W	importedmeat_freshpork	 
+Date    	ComCode 	Description                                                            	High 
+ 	18772   	USDA Imported Meat - Fresh Pork - AMR - Brazil                         	 
+ 	18773   	USDA Imported Meat - Fresh Pork - Boneless Trimmings - Brazil          	 
+ 	18774   	USDA Imported Meat - Fresh Pork - Cuts - Brazil                        	 
+ 	18775   	USDA Imported Meat - Fresh Pork - Edible Offal - Brazil                	 
+ 	18776   	USDA Imported Meat - Fresh Pork - Other Intact - Brazil                	 
+ 	18777   	USDA Imported Meat - Fresh Pork - Primals & Subprimals - Brazil        	 
+ 	18778   	USDA Imported Meat - Fresh Pork - AMR - Canada                         	 
+ 	18779   	USDA Imported Meat - Fresh Pork - Boneless Trimmings - Canada          	 
+ 	18780   	USDA Imported Meat - Fresh Pork - Cuts - Canada                        	 
+ 	18781   	USDA Imported Meat - Fresh Pork - Edible Offal - Canada                	 
+ 	18782   	USDA Imported Meat - Fresh Pork - Other Intact - Canada                	 
+ 	18783   	USDA Imported Meat - Fresh Pork - Primals & Subprimals - Canada        	 
+ 	18784   	USDA Imported Meat - Fresh Pork - AMR - Chile                          	 
+ 	18785   	USDA Imported Meat - Fresh Pork - Boneless Trimmings - Chile           	 
+ 	18786   	USDA Imported Meat - Fresh Pork - Cuts - Chile                         	 
+ 	18787   	USDA Imported Meat - Fresh Pork - Edible Offal - Chile                 	 
+ 	18788   	USDA Imported Meat - Fresh Pork - Other Intact - Chile                 	 
+ 	18789   	USDA Imported Meat - Fresh Pork - Primals & Subprimals - Chile         	 
+ 	18790   	USDA Imported Meat - Fresh Pork - AMR - Denmark                        	 
+ 	18791   	USDA Imported Meat - Fresh Pork - Boneless Trimmings - Denmark         	 
+ 	18792   	USDA Imported Meat - Fresh Pork - Cuts - Denmark                       	 
+ 	18793   	USDA Imported Meat - Fresh Pork - Edible Offal - Denmark               	 
+ 	18794   	USDA Imported Meat - Fresh Pork - Other Intact - Denmark               	 
+ 	18795   	USDA Imported Meat - Fresh Pork - Primals & Subprimals - Denmark       	 
+ 	18796   	USDA Imported Meat - Fresh Pork - AMR - Finland                        	 
+ 	18797   	USDA Imported Meat - Fresh Pork - Boneless Trimmings - Finland         	 
+ 	18798   	USDA Imported Meat - Fresh Pork - Cuts - Finland                       	 
+ 	18799   	USDA Imported Meat - Fresh Pork - Edible Offal - Finland               	 
+ 	18800   	USDA Imported Meat - Fresh Pork - Other Intact - Finland               	 
+ 	18801   	USDA Imported Meat - Fresh Pork - Primals & Subprimals - Finland       	 
+ 	18802   	USDA Imported Meat - Fresh Pork - AMR - Ireland                        	 
+ 	18803   	USDA Imported Meat - Fresh Pork - Boneless Trimmings - Ireland         	 
+ 	18804   	USDA Imported Meat - Fresh Pork - Cuts - Ireland                       	 
+ 	18805   	USDA Imported Meat - Fresh Pork - Edible Offal - Ireland               	 
+ 	18806   	USDA Imported Meat - Fresh Pork - Other Intact - Ireland               	 
+ 	18807   	USDA Imported Meat - Fresh Pork - Primals & Subprimals - Ireland       	 
+ 	18808   	USDA Imported Meat - Fresh Pork - AMR - Mexico                         	 
+ 	18809   	USDA Imported Meat - Fresh Pork - Boneless Trimmings - Mexico          	 
+ 	18810   	USDA Imported Meat - Fresh Pork - Cuts - Mexico                        	 
+ 	18811   	USDA Imported Meat - Fresh Pork - Edible Offal - Mexico                	 
+ 	18812   	USDA Imported Meat - Fresh Pork - Other Intact - Mexico                	 
+ 	18813   	USDA Imported Meat - Fresh Pork - Primals & Subprimals - Mexico        	 
+ 	18814   	USDA Imported Meat - Fresh Pork - AMR - Netherlands                    	 
+ 	18815   	USDA Imported Meat - Fresh Pork - Boneless Trimmings - Netherlands     	 
+ 	18816   	USDA Imported Meat - Fresh Pork - Cuts - Netherlands                   	 
+ 	18817   	USDA Imported Meat - Fresh Pork - Edible Offal - Netherlands           	 
+ 	18818   	USDA Imported Meat - Fresh Pork - Other Intact - Netherlands           	 
+ 	18819   	USDA Imported Meat - Fresh Pork - Primals & Subprimals - Netherlands   	 
+ 	18820   	USDA Imported Meat - Fresh Pork - AMR - North Ireland                  	 
+ 	18821   	USDA Imported Meat - Fresh Pork - Boneless Trimmings - North Ireland   	 
+ 	18822   	USDA Imported Meat - Fresh Pork - Cuts - North Ireland                 	 
+ 	18823   	USDA Imported Meat - Fresh Pork - Edible Offal - North Ireland         	 
+ 	18824   	USDA Imported Meat - Fresh Pork - Other Intact - North Ireland         	 
+ 	18825   	USDA Imported Meat - Fresh Pork - Primals & Subprimals - North Ireland 	 
+ 	18826   	USDA Imported Meat - Fresh Pork - AMR - Poland                         	 
+ 	18827   	USDA Imported Meat - Fresh Pork - Boneless Trimmings - Poland          	 
+ 	18828   	USDA Imported Meat - Fresh Pork - Cuts - Poland                        	 
+ 	18829   	USDA Imported Meat - Fresh Pork - Edible Offal - Poland                	 
+ 	18830   	USDA Imported Meat - Fresh Pork - Other Intact - Poland                	 
+ 	18831   	USDA Imported Meat - Fresh Pork - Primals & Subprimals - Poland        	 
+ 	18832   	USDA Imported Meat - Fresh Pork - AMR - Spain                          	 
+ 	18833   	USDA Imported Meat - Fresh Pork - Boneless Trimmings - Spain           	 
+ 	18834   	USDA Imported Meat - Fresh Pork - Cuts - Spain                         	 
+ 	18835   	USDA Imported Meat - Fresh Pork - Edible Offal - Spain                 	 
+ 	18836   	USDA Imported Meat - Fresh Pork - Other Intact - Spain                 	 
+ 	18837   	USDA Imported Meat - Fresh Pork - Primals & Subprimals - Spain         	 
+ 	18838   	USDA Imported Meat - Fresh Pork - AMR - United Kingdom                 	 
+ 	18839   	USDA Imported Meat - Fresh Pork - Boneless Trimmings - United Kingdom  	 
+ 	18840   	USDA Imported Meat - Fresh Pork - Cuts - United Kingdom                	 
+ 	18841   	USDA Imported Meat - Fresh Pork - Edible Offal - United Kingdom        	 
+ 	18842   	USDA Imported Meat - Fresh Pork - Other Intact - United Kingdom        	 
+ 	18843   	USDA Imported Meat - Fresh Pork - Primals & Subprimals - United Kingdom	 
+ 	18844   	USDA Imported Meat - Fresh Pork - AMR - Total                          	 
+ 	18845   	USDA Imported Meat - Fresh Pork - Boneless Trimmings - Total           	 
+ 	18846   	USDA Imported Meat - Fresh Pork - Cuts - Total                         	 
+ 	18847   	USDA Imported Meat - Fresh Pork - Edible Offal - Total                 	 
+ 	18848   	USDA Imported Meat - Fresh Pork - Other Intact - Total                 	 
+ 	18849   	USDA Imported Meat - Fresh Pork - Primals & Subprimals - Total         	 

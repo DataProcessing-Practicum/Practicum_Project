@@ -1,0 +1,22 @@
+L	W	importedmeat_mutton	 
+Date    	ComCode 	Description                                                                           	High 
+ 	18946   	USDA Imported Meat - Mutton - Boneless Trimmings - Australia                          	 
+ 	18947   	USDA Imported Meat - Mutton - Carcasses - Australia                                   	 
+ 	18948   	USDA Imported Meat - Mutton - Cuts - Australia                                        	 
+ 	18949   	USDA Imported Meat - Mutton - Edible Offal - Australia                                	 
+ 	18950   	USDA Imported Meat - Mutton - Primals & Subprimals - Australia                        	 
+ 	18951   	USDA Imported Meat - Mutton - Boneless Trimmings - Chile                              	 
+ 	18952   	USDA Imported Meat - Mutton - Carcasses - Chile                                       	 
+ 	18953   	USDA Imported Meat - Mutton - Cuts - Chile                                            	 
+ 	18954   	USDA Imported Meat - Mutton - Edible Offal - Chile                                    	 
+ 	18955   	USDA Imported Meat - Mutton - Primals & Subprimals - Chile                            	 
+ 	18956   	USDA Imported Meat - Mutton - Boneless Trimmings - New Zealand                        	 
+ 	18957   	USDA Imported Meat - Mutton - Carcasses - New Zealand                                 	 
+ 	18958   	USDA Imported Meat - Mutton - Cuts - New Zealand                                      	 
+ 	18959   	USDA Imported Meat - Mutton - Edible Offal - New Zealand                              	 
+ 	18960   	USDA Imported Meat - Mutton - Primals & Subprimals - New Zealand                      	 
+ 	18961   	USDA Imported Meat - Mutton - Boneless Trimmings - Total                              	 
+ 	18962   	USDA Imported Meat - Mutton - Carcasses - Total                                       	 
+ 	18963   	USDA Imported Meat - Mutton - Cuts - Total                                            	 
+ 	18964   	USDA Imported Meat - Mutton - Edible Offal - Total                                    	 
+ 	18965   	USDA Imported Meat - Mutton - Primals & Subprimals - Total                            	 
